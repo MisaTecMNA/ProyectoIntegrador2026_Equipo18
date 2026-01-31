@@ -1,0 +1,55 @@
+Aquí tienes una propuesta de **README.md** técnico y conciso, diseñado para acompañar tu repositorio o entrega de código.
+
+---
+
+# Data Pipeline: SemMedDB Activation Steering
+
+Este repositorio contiene el flujo de trabajo (ETL & Inferencia) diseñado para extraer conocimiento biomédico de la base de datos SemMedDB (NIH), transformarlo en consultas de lenguaje natural y evaluar el conocimiento paramétrico del modelo Llama 3.
+
+## Estructura del Pipeline
+
+El procesamiento se divide en 3 fases secuenciales. A continuación se describen los scripts y los archivos de entrada/salida correspondientes.
+
+### Fase 1: Extracción y Limpieza (ETL)
+
+**Script:** `semmed_build_triples_5000.py`
+
+* **Descripción:** Procesa los archivos crudos comprimidos de SemMedDB. Realiza indexación temporal, filtra registros por el periodo **2010-2024** y aplica un muestreo balanceado por año.
+* **Inputs:**
+* `CITATIONS.sql.gz` (Metadatos de artículos PubMed).
+* `PREDICATION.csv.gz` (Extracciones semánticas crudas).
+
+
+* **Output:**
+* `semmed_triples_1m.csv`: Dataset consolidado con tripletas limpias (Sujeto  Predicado  Objeto) y año de publicación.
+
+
+
+### Fase 2: Generación de Lenguaje Natural (NLG)
+
+**Script:** `generate_questions_semm.py`
+
+* **Descripción:** Transforma las tripletas lógicas en preguntas gramaticales en inglés utilizando mapeos semánticos (`SEM_TYPE_MAP`) y plantillas dinámicas.
+* **Input:**
+* `semmed_triples_1m.csv`
+
+
+* **Output:**
+* `triples_semmed_questions_full.csv`: Archivo enriquecido que añade la columna **`Questions`** (Prompt para el LLM).
+
+
+
+### Fase 3: Inferencia y Evaluación (Llama 3 + S-BERT)
+
+**Script:** `llama_vllm_answer_evaluate.py`
+
+* **Descripción:** Ejecuta inferencia *few-shot* sobre el modelo Llama 3 utilizando `vLLM`. Evalúa las respuestas generadas comparándolas con el objeto objetivo (*Ground Truth*) mediante similitud semántica (Sentence-BERT).
+* **Input:**
+* `triples_semmed_questions_full.csv`
+
+
+* **Output Final:**
+* `triples_evaluated_llama_1M1.csv`: Dataset final listo para análisis de *Steering*. Incluye las columnas:
+* `Model_Answer`: Respuesta cruda del modelo.
+* `Similarity`: Puntuación de similitud coseno (0-1).
+* `Correct_Flag`: Clasificación binaria (0/1) de la respuesta.
