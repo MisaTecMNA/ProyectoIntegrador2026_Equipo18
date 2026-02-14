@@ -63,7 +63,7 @@ def main():
     X_test = scaler.transform(X_test)
 
     # 4. Training
-    print("🏃 Training Linear Model (Logistic Regression)...")
+    print(" Training Linear Model (Logistic Regression)...")
     clf = LogisticRegression(
         random_state=42, 
         max_iter=3000, 
