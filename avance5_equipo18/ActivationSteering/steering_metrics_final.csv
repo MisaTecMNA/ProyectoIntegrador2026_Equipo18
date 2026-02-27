@@ -1,0 +1,820 @@
+condition,coeff,year,ppl,f1_score,ground_truth,generated
+Baseline,0.0,2024,134.89100646972656,0.0,Patients,"In a biomedical context, Restrictive cardiomyopathy (RCM) is a type of cardiomyopathy characterized by the stiffening of the heart muscle, which makes it difficult for the heart to fill with blood during diastole (the relaxation"
+Baseline,0.0,2024,123.36158752441406,0.0,Transplant Recipients,"In a biomedical context, Immunologic Deficiency Syndromes (IDS) are a group of disorders characterized by impaired immune function, which can be caused by various factors such as genetic mutations, infections, or environmental factors. The relationship between Immunologic Def"
+Baseline,0.0,2024,115.15623474121094,0.14634146341463414,Bone structure of tibia,"In a biomedical context, the Proximal epiphyseal growth plate is a type of tissue that is part of the bone. Specifically, it is a cartilaginous structure located at the end of a long bone, near the joint,"
+Baseline,0.0,2024,413.10260009765625,0.0,Biospecimen,"I don't have the information on the specific medical entities related to the anatomical location of an impaired driver. If you're looking for information on the physical or medical aspects that could impair a person's ability to drive safely, I'd be happy to"
+Baseline,0.0,2024,119.9887924194336,0.0,Hyperkinesia,"PRECEDES is a framework for planning and evaluating health promotion and disease prevention programs. It stands for ""Policies, Regulations, and Educational, Environmental, Developmental, Economic, Social, and Epidemiological"" factors. In the context of cerebro"
+Baseline,0.0,2024,230.19784545898438,0.0689655172413793,Shock,"Duodenal ulcers can cause or induce several pathologic functions, including:
+
+1.  **Bleeding**: Duodenal ulcers can cause bleeding, which can lead to anemia, hypovolemic shock, and even death if"
+Baseline,0.0,2024,146.4860076904297,0.046511627906976744,"Tumor cells, uncertain whether benign or malignant","Adipocytes, also known as fat cells, significantly interact with various cell types in the body to perform their functions and maintain tissue homeostasis. Some of the key cell types that adipocytes interact with include:
+
+1. **Macrophages**:"
+Baseline,0.0,2024,81.89636993408203,0.0,chlorophyll,"Ribulose-Bisphosphate Carboxylase (RuBisCO) is an enzyme that plays a crucial role in the Calvin cycle, a key process in photosynthesis. It is the most abundant enzyme on Earth and is responsible for fixing"
+Baseline,0.0,2024,119.11936950683594,0.052631578947368425,Patients,"Hypofractionated radiation therapy is typically administered to patients or groups with certain characteristics or conditions. These include:
+
+1. **Early-stage breast cancer**: Hypofractionated radiation therapy is often used for patients with early-stage breast cancer, particularly those"
+Baseline,0.0,2024,202.0591278076172,0.0,Persons,"I don't have the specific information on the relationship between Exudative maculopathy and patients or groups via PROCESS_OF in a biomedical context. My previous response was an error, and I'm unable to provide a correct answer to this question. If"
+Baseline,0.0,2024,219.9788360595703,0.0,benzene,"Volatile Organic Compounds (VOCs) can interact with various medical entities, including:
+
+1. **Respiratory System**: VOCs can irritate the eyes, nose, throat, and lungs, exacerbating conditions such as asthma, chronic"
+Baseline,0.0,2024,472.318603515625,0.0,CCNB1,"Family Suidae refers to the pig family, which includes pigs, boars, and hogs. The anatomical location of the genes that define this family would be in the genome of these animals.
+
+However, I need more context or clarification on"
+Baseline,0.0,2024,238.4852752685547,0.0,Peptides,"Palmitoylation is a post-translational modification that primarily affects proteins. It involves the attachment of a 16-carbon fatty acid, palmitate, to a cysteine residue on a protein. This modification can affect various aspects of"
+Baseline,0.0,2024,137.28787231445312,0.0,COVID-19,"Pathogenesis is a term that refers to the process by which a disease or condition develops and progresses. It's not a specific disease or condition itself. However, I'll provide you with some common diseases or conditions that are often associated with pathogenesis:"
+Baseline,0.0,2024,125.8784408569336,0.0,Ferroptosis,"Oxidative stress primarily affects cells that are rich in polyunsaturated fatty acids, have high metabolic rates, and are involved in energy production, such as:
+
+1. **Neurons**: Neurons are highly susceptible to oxidative stress due to their"
+Baseline,0.0,2024,190.69117736816406,0.0,Normal sedimentation rate,"Tocilizumab is a monoclonal antibody that is commonly used to treat the following clinical conditions:
+
+1. **Rheumatoid Arthritis (RA)**: Tocilizumab is used to treat moderate to severe rheumatoid"
+Baseline,0.0,2024,166.53965759277344,0.0,Virus Replication,"RNA-binding proteins (RBPs) primarily affect messenger RNA (mRNA) and other types of RNA molecules, including:
+
+1. **mRNA**: RBPs can bind to specific sequences or structures within mRNA molecules, influencing their stability, localization, translation"
+Baseline,0.0,2024,123.33917999267578,0.0,Magnetic Resonance Imaging,The anatomical location of the spinal canal is the vertebral column.
+Baseline,0.0,2024,133.5034637451172,0.0,Progressive Neoplastic Disease,"Complete cystectomy, also known as total cystectomy, is a surgical procedure that involves the removal of the bladder. It is typically used to treat certain types of bladder cancer, specifically:
+
+1. Muscle-invasive bladder cancer: This type of cancer has"
+Baseline,0.0,2024,163.23611450195312,0.0,Macrophage Activation,"I don't have information on the relationship between Fibroins and cell types via AUGMENTS in a biomedical context. My previous response was an error. If you have any other questions or need information on a different topic, feel free to ask!"
+Baseline,0.0,2024,236.86643981933594,0.0,Protoplasm,"I don't have the specific information on the relationship between lutein and medical entities via PART_OF in a biomedical context. The relationship between lutein and medical entities can be complex and may involve various aspects such as its role in eye health,"
+Baseline,0.0,2024,306.30059814453125,0.1818181818181818,Immune response,Photochemotherapy primarily affects the skin and the immune system.
+Baseline,0.0,2024,269.7183532714844,0.0,Physicians,"I don't have information on what ""Challenge"" refers to in the context of medical treatment. Could you provide more details or clarify which ""Challenge"" you are asking about? This will help me give you a more accurate and helpful response."
+Baseline,0.0,2024,129.7135772705078,0.0,Patients,"Cabozantinib is a tyrosine kinase inhibitor that is commonly used to treat certain types of cancer. It is specifically approved by the US FDA for the treatment of:
+
+1. **Medullary thyroid cancer (MTC)**: Cab"
+Baseline,0.0,2024,126.04721069335938,0.0,Neoplasm Metastasis,"Eukaryotic cells are a type of cell that have a true nucleus and other membrane-bound organelles. They are found in all living organisms, including animals, plants, fungi, and protists. Eukaryotic cells are the building"
+Baseline,0.0,2024,315.11834716796875,0.0,Staff,"In a biomedical context, the relationship between ""Worried"" and patients or groups via PROCESS_OF is that ""Worried"" is a state or condition that is often a result of a process or a series of events that affect patients or groups"
+Baseline,0.0,2024,181.86553955078125,0.0,Quantity,"In a biomedical context, an Assay is a laboratory test or procedure used to measure the concentration or amount of a specific analyte (e.g., a biomarker, a drug, or a metabolite) in a sample. MEASURES ("
+Baseline,0.0,2024,221.07118225097656,0.0,Demyelination,"Complex (molecular entity) can cause or induce various pathologic functions, including:
+
+1. **Toxicity**: Complexes can be toxic to cells, tissues, or organs, leading to cell death, inflammation, and tissue damage.
+2."
+Baseline,0.0,2024,284.7153015136719,0.05714285714285715,Patients,"Ventricular function, specifically right ventricular (RV) function, primarily affects patients or groups with conditions that involve the right side of the heart. These include:
+
+1. **Pulmonary Hypertension**: Patients with pulmonary hypertension have high blood"
+Baseline,0.0,2024,268.8523864746094,0.046511627906976744,TJP1 gene|TJP1,"Endotoxins are bacterial toxins that are found in the outer membrane of Gram-negative bacteria. They are not genes, but rather a type of molecule that can stimulate an immune response in animals.
+
+Endotoxins stimulate the production of various cytokines"
+Baseline,0.0,2024,313.37042236328125,0.044444444444444446,Patients,"In a biomedical context, the relationship between Chronic Obstruction and patients or groups via PROCESS_OF is that Chronic Obstruction is a process that affects patients or groups, often resulting in a series of events or outcomes.
+
+In this context, PROCESS_OF is a"
+Baseline,0.0,2024,151.635498046875,0.0,Patients,"Arthroplasty, specifically partial knee replacement, is commonly used to treat conditions that affect the knee joint, particularly those that cause pain, stiffness, and limited mobility. Some of the medical entities that are commonly treated with partial knee replacement include:
+
+1"
+Baseline,0.0,2024,53.32899475097656,0.04347826086956521,"Multiple Sclerosis, Relapsing-Remitting","Single Agent Therapy (SAT) is a treatment approach where a single medication or treatment is used to manage a disease or condition, rather than a combination of multiple medications. SAT is commonly used to treat various diseases and conditions, including:
+
+1. **H"
+Baseline,0.0,2024,268.2932434082031,0.0,Calcinosis,"The radial artery is a superficial artery located in the forearm, and its anatomical location is as follows:
+
+* It originates from the brachial artery, which is the continuation of the axillary artery, in the cubital fossa (the area"
+Baseline,0.0,2024,219.4739227294922,0.0425531914893617,analgesic effect,"Nalmefene is a medication that primarily affects the clinical findings associated with alcohol dependence. It is a selective opioid receptor antagonist that works by blocking the effects of alcohol on the brain, which can help reduce the desire to drink and the physical symptoms of"
+Baseline,0.0,2024,215.5930633544922,0.044444444444444446,Patients,"In a biomedical context, the relationship between Proteinuria and patients or groups can be described via the PROCESS_OF relationship as follows:
+
+Proteinuria is a condition where an abnormal amount of protein is present in the urine. This can be a sign of kidney"
+Baseline,0.0,2024,158.74110412597656,0.0,CALCR,"In a biomedical context, the relationship between triglycerides and genes can be complex and influenced by multiple factors. However, I'll provide a general overview of the relationship between triglycerides and genes, focusing on the COMPARED_WITH aspect.
+
+**Tr"
+Baseline,0.0,2024,220.0867919921875,0.04545454545454545,Patients,"In a biomedical context, the relationship between melanoma and patients or groups via PROCESS_OF is that melanoma is a type of cancer that can be diagnosed and treated in patients, and the process of diagnosis, treatment, and management of melanoma involves various"
+Baseline,0.0,2024,414.118896484375,0.0,Outpatients,"Counseling is typically administered to individuals, groups, or families who are experiencing various types of challenges, difficulties, or concerns. Some of the common groups or individuals who may receive counseling include:
+
+1. **Individuals with mental health issues**: People"
+Baseline,0.0,2024,309.18316650390625,0.0,Bright field,"In a biomedical context, Laboratory Procedures and medical entities are related via the concept of USES (Usage, Specification, and Evaluation of medical entities). Here's a breakdown of the relationship:
+
+**Medical Entities**: These are the objects, concepts, or entities"
+Baseline,0.0,2024,220.95367431640625,0.0,Fibrosis,"Intraperitoneal injections can cause several pathologic functions, including:
+
+1.  **Adhesions**: The introduction of foreign substances into the peritoneal cavity can lead to the formation of adhesions, which are bands of fibrous"
+Baseline,0.0,2024,158.84324645996094,0.0,osteopontin,"Macrophages are a type of white blood cell that play a crucial role in the immune system. They are found in various tissues and organs throughout the body, but their primary locations are:
+
+1. **Lymphoid organs**: Macrophages are"
+Baseline,0.0,2024,176.52456665039062,0.05,IMPACT gene,"I don't have specific information on which genes commonly co-exist with Ribonucleoproteins|RNPC3. The interactions and co-expression of genes can be complex and highly specific to the cellular context, and without more detailed information, it"
+Baseline,0.0,2024,336.6725769042969,0.0,"Infant, Newborn","In a biomedical context, the relationship between ""Interested"" and patients or groups via PROCESS_OF is a bit abstract, but I'll try to break it down for you.
+
+In a biomedical context, ""Interested"" is likely referring to a concept or entity"
+Baseline,0.0,2024,67.2130355834961,0.0,Adenocarcinoma,"The esophagogastric junction (EGJ) is the anatomical location where the esophagus meets the stomach. This area is also known as the gastroesophageal junction (GEJ).
+
+The esophagogastric junction"
+Baseline,0.0,2024,309.66314697265625,0.0,Labor (Childbirth),"Cesarean, also known as C-section, is a surgical delivery method where a baby is born through an incision in the mother's abdomen and uterus. This medical procedure can stimulate various physiological responses in the mother's body. Here are some"
+Baseline,0.0,2024,139.08554077148438,0.0,Astrocytes,"The spinal cord is a long, thin, tube-like structure made up of several types of cells. The main cell types found in the spinal cord are:
+
+1. **Neurons**: These are the main functional units of the spinal cord. They are"
+Baseline,0.0,2024,473.02679443359375,0.0,Vitality,"Metals can cause a wide range of clinical findings, depending on the specific metal, its concentration, and the duration of exposure. Here are some examples:
+
+**Acute Exposure:**
+
+1. **Metal fume fever**: Symptoms include fever, ch"
+Baseline,0.0,2024,380.7534484863281,0.0,collagen catabolic process,"Sirolimus, also known as rapamycin, is a macrolide compound that has immunosuppressive and antiproliferative properties. It works by disrupting the function of certain proteins involved in cell signaling pathways, particularly those that regulate"
+Baseline,0.0,2024,156.36070251464844,0.04081632653061224,Vascular Endothelial Cells,"Silicon is an essential element for plant growth and development, and it primarily affects plant cells. Silicon is not directly involved in the metabolic processes of animal cells, but it can have indirect effects on animal health through its impact on the environment and food chain"
+Baseline,0.0,2024,265.4019470214844,0.1081081081081081,Lipid Metabolism,"The PPARG gene encodes for the peroxisome proliferator-activated receptor gamma (PPARγ), a nuclear receptor that plays a crucial role in regulating glucose and lipid metabolism, cell proliferation, and differentiation. PPARG stimulates the expression of"
+Baseline,0.0,2024,31.726478576660156,0.04347826086956522,MRSA - Methicillin resistant Staphylococcus aureus infection,"Meropenem is a broad-spectrum antibiotic that is commonly used to treat a variety of bacterial infections. It is a carbapenem antibiotic, which means it works by inhibiting the synthesis of the bacterial cell wall, ultimately leading to the death"
+Baseline,0.0,2024,115.4976806640625,0.0,Tardive Dyskinesia,"Psychometrics is not a disease or condition, but rather a field of study that deals with the theory and technique of psychological measurement. It involves the development and evaluation of methods for measuring psychological constructs, such as intelligence, personality, attitudes, and abilities."
+Baseline,0.0,2024,179.35923767089844,0.048780487804878044,CMTM6 gene|CMTM6,"Short Hairpin RNA (shRNA) is a type of RNA molecule that is used to silence gene expression by inducing RNA interference (RNAi). shRNA is a precursor to small interfering RNA (siRNA), which is the actual effector molecule that"
+Baseline,0.0,2024,94.25724792480469,0.05,Liver diseases,"Transplantation is a medical procedure that involves replacing a diseased or damaged organ or tissue with a healthy one from a donor. Transplantation is commonly used to treat a variety of diseases and conditions, including:
+
+1. **Organ failure**:"
+Baseline,0.0,2024,200.70535278320312,0.0,Homo sapiens,I don't have information on aschantin. Can I help you with something else?
+Baseline,0.0,2024,242.12583923339844,0.0,Adult,"In a biomedical context, the relationship between Cerebral dysfunction and patients or groups can be described using the PROCESS_OF relationship in the following way:
+
+Cerebral dysfunction PROCESS_OF patients or groups
+
+This relationship indicates that cerebral dysfunction is a process or a"
+Baseline,0.0,2024,201.73171997070312,0.044444444444444446,hepatitis B virus,"I don't have the specific information on the relationship between CTGF protein, human|CTGF, and a virus via the PART_OF relationship in a biomedical context. The PART_OF relationship typically indicates a part-whole relationship, where one entity is a"
+Baseline,0.0,2024,53.18178939819336,0.0,Malignant Neoplasms,"Histone deacetylases (HDACs) are a family of enzymes that play a crucial role in the regulation of gene expression by removing acetyl groups from histones, leading to chromatin compaction and transcriptional repression. HDACs"
+Baseline,0.0,2024,220.07009887695312,0.0,Community,"In a biomedical context, Superficial abrasion is a type of injury that involves the removal of the outermost layer of the skin, typically caused by friction or rubbing against a rough surface. The PROCESS_OF relationship between Superficial abrasion and"
+Baseline,0.0,2024,205.72189331054688,0.0,Vertebrates,"In a biomedical context, the relationship between Cells and medical entities via PART_OF is a specific type of relationship that describes the composition of a medical entity from one or more cells.
+
+In this context, PART_OF is a relation type that indicates that a cell"
+Baseline,0.0,2024,341.48846435546875,0.052631578947368425,Patients,"In a biomedical context, Mixed Phenotype Acute Leukemia (MPAL) is a rare and aggressive type of leukemia that is characterized by the presence of two distinct cell populations with different immunophenotypes. The relationship between MPAL and patients"
+Baseline,0.0,2024,162.5352020263672,0.0,acetylcholinesterase,"The aryl hydrocarbon receptor (AHR) is a ligand-activated transcription factor that plays a crucial role in various biological processes, including xenobiotic metabolism, cell cycle regulation, and immune response. AHR interacts with several proteins to regulate"
+Baseline,0.0,2024,244.5500946044922,0.0,"BIT, DRILL","In a biomedical context, Clinical Trials and medical entities are related through the concept of ""USES"" (Units of Service or Units of Service Evaluation). Here's a breakdown of the relationship:
+
+**Clinical Trials**: A clinical trial is a research study that involves"
+Baseline,0.0,2024,152.35366821289062,0.0,Decidua,"In a biomedical context, Stromal Cells are a type of cell that are part of the connective tissue, which provides structural and functional support to tissues and organs. The relationship between Stromal Cells and tissues or organs can be described using the PART_OF"
+Baseline,0.0,2024,162.14646911621094,0.0,Echocardiography,The cardiac chamber structure is located in the heart.
+Baseline,0.0,2024,185.74156188964844,0.0,C2CD4B gene|C2CD4B,"I don't have the specific information on the anatomical location of viral replication complexes for various viruses. Viral replication can occur in different parts of the cell, depending on the virus, and the specific proteins involved can vary widely. If you're looking"
+Baseline,0.0,2024,747.8231201171875,0.05,Responsive Disease,I don't have information on what Regulon primarily affects in terms of clinical findings. Could you provide more context or details about Regulon? This will help me better understand your question and provide a more accurate response.
+Baseline,0.0,2024,319.4918518066406,0.0,Fatty deposition,"The ""Wall of artery"" is a term that can refer to the tunica intima, tunica media, and tunica externa, which are the three layers of the arterial wall. However, if you are referring to a specific clinical finding"
+Baseline,0.0,2024,200.7005615234375,0.0,Antiviral Response,"Bronchial epithelial cells primarily affect the respiratory system, specifically the airways of the lungs. They line the bronchi, which are the airways that lead to the lungs, and play a crucial role in maintaining the integrity and function of the"
+Baseline,0.0,2024,205.2532501220703,0.0,Mus,"In a biomedical context, the relationship between Acute Pneumonia and species via PROCESS_OF is that Acute Pneumonia is a disease that can affect various species, including humans, animals, and birds.
+
+Acute Pneumonia is a type"
+Baseline,0.0,2024,180.55886840820312,0.05128205128205127,Patients,"In a biomedical context, Hypernatremia is a medical condition characterized by an elevated sodium level in the blood. The relationship between Hypernatremia and patients or groups via PROCESS_OF can be described as follows:
+
+Hypernatremia can be caused"
+Baseline,0.0,2024,544.559326171875,0.04,Perceived quality of life,"I don't have information on the CTIF gene or its association with specific medical entities. It's possible that CTIF is a gene or a term not widely recognized in my current database, or it might be a very specialized or new area of research"
+Baseline,0.0,2024,269.3319091796875,0.06451612903225806,hepatitis B virus,"I don't have the information on which virus is diagnosed using the term ""Diagnosis"". Could you provide more context or clarify which virus you are referring to?"
+Baseline,0.0,2024,415.3016357421875,0.0,Woman,"In a biomedical context, the relationship between Symptom and patients or groups via PROCESS_OF is a complex one, and it can be described in several ways depending on the specific context and the type of analysis being performed. However, I'll provide a general"
+Baseline,0.0,2024,174.86534118652344,0.0,Neuralgia,"Paclitaxel is a chemotherapy medication that can cause a range of medical entities, including:
+
+1. **Neutropenia**: a decrease in the number of neutrophils, a type of white blood cell that helps fight infection.
+2"
+Baseline,0.0,2024,93.17127990722656,0.0,SMAD7 gene|SMAD7,"Chimeric Antigen Receptor (CAR) T-cells are a type of immunotherapy that involves genetically modifying T-cells to recognize and attack cancer cells. The CAR is a fusion protein that is expressed on the surface of the T-cell,"
+Baseline,0.0,2024,73.24254608154297,0.09523809523809523,Disorder of the optic nerve,"Ethambutol is an antibiotic medication used to treat tuberculosis (TB) and other mycobacterial infections. While generally considered safe, ethambutol can cause several side effects and interact with other medications. Some of the potential diseases or conditions that"
+Baseline,0.0,2024,475.0301208496094,0.0,gaboxadol,"The neocortex is a part of the brain, not a chemical. It's a layer of gray matter in the cerebral cortex, which is the outer layer of the brain. The neocortex is responsible for many higher-order cognitive functions, such"
+Baseline,0.0,2024,438.4088134765625,0.0,starch,"Grains are not a chemical, but rather a type of food made from the edible seeds of various plants, such as wheat, rice, corn, and others. They are a type of carbohydrate-rich food that is commonly consumed by humans.
+
+So,"
+Baseline,0.0,2024,102.28400421142578,0.0,Carcinoma,"Targeted therapy, also known as precision medicine, is a type of cancer treatment that uses medications or other treatments that specifically target the genetic mutations or molecular abnormalities that drive the growth and spread of cancer cells. Targeted therapy is commonly used to treat various"
+Baseline,0.0,2024,165.43292236328125,0.0,voltammetry,"In a biomedical context, Scanning Electron Microscopy (SEM) is a technique used to produce high-resolution images of the surface morphology of biological samples, such as cells, tissues, and microorganisms. The relationship between SEM and medical entities via METHOD_OF"
+Baseline,0.0,2024,395.1395568847656,0.042553191489361694,Patients,"I don't have the specific information on which patients or groups Additional assessment is commonly used to treat. Medical practices and treatments can vary widely depending on the condition, location, and healthcare provider. If you're looking for information on a specific medical condition or"
+Baseline,0.0,2024,258.99517822265625,0.0,Participant,"In a biomedical context, Insulin Resistance is related to various patients or groups through the PROCESS_OF relationship, which indicates a causal or mechanistic relationship. Here's a breakdown of the relationship:
+
+**Insulin Resistance** is a condition where the body's"
+Baseline,0.0,2024,172.841796875,0.0,Adult,"In a biomedical context, Cardiomyopathies are a group of diseases that affect the heart muscle (myocardium). The relationship between Cardiomyopathies and patients or groups can be described using the PROCESS_OF relationship, which indicates a process"
+Baseline,0.0,2024,149.50494384765625,0.0,Cerebellum,"In a biomedical context, the relationship between Human Development and tissues or organs via PROCESS_OF is a complex and dynamic one. Here's a breakdown:
+
+**Human Development** refers to the process by which a human being grows and matures from a fertilized egg"
+Baseline,0.0,2024,614.5230712890625,0.0,hydrogen,"Nitrogen is a diatomic molecule (N2) that is a major component of the Earth's atmosphere. In a medical context, nitrogen is not typically considered a therapeutic agent, but rather a gas that can be used for various medical purposes, including"
+Baseline,0.0,2024,220.52243041992188,0.05405405405405406,"Tumor cells, malignant","I don't have enough information to accurately determine the anatomical location of a ""Three-dimensional"" cell type. Could you provide more context or clarify what you mean by ""Three-dimensional"" in this context?"
+Baseline,0.0,2024,117.23574829101562,0.0,Pulmonary Eosinophilia,"The CPA3 gene, also known as carboxypeptidase A3, is associated with several diseases and conditions, including:
+
+1. **Carcinoma**: CPA3 has been implicated in the development and progression of various types of carcin"
+Baseline,0.0,2024,207.11907958984375,0.0,1 Day,"In a biomedical context, Subjective Refraction and medical entities are related through the use of MEASURES (Measurement, Evaluation, Assessment, Research, and Utilization of Subjective Refraction) in the field of optometry and ophthalmology."
+Baseline,0.0,2024,137.47955322265625,0.0,Child,"SARS-CoV-2 vaccination is not used to treat medical entities, but rather to prevent COVID-19, the disease caused by the SARS-CoV-2 virus. Vaccination is a preventive measure to help the body build immunity against the"
+Baseline,0.0,2024,264.1560363769531,0.0,Child,"In a biomedical context, the relationship between Wound Healing and patients or groups can be described using the PROCESS_OF relationship, which indicates that Wound Healing is a process that occurs in or affects patients or groups.
+
+In this context, Wound Healing is"
+Baseline,0.0,2024,65.56612396240234,0.14285714285714288,HIV,Antiretroviral therapy (ART) is commonly used to treat the Human Immunodeficiency Virus (HIV).
+Baseline,0.0,2024,206.8161163330078,0.04545454545454545,Patients,"In a biomedical context, the relationship between Acute hemorrhage and patients or groups via PROCESS_OF is that Acute hemorrhage is a process that affects patients or groups.
+
+In this context, PROCESS_OF is a semantic relationship that indicates a process or activity"
+Baseline,0.0,2024,257.8705749511719,0.0,Hospital acquired pneumonia,"Pathogenic organisms, which are microorganisms that cause disease, can cause a wide range of diseases and conditions in humans, animals, and plants. Here are some examples:
+
+**Bacterial diseases:**
+
+1. Tuberculosis (TB) - caused by"
+Baseline,0.0,2024,184.99501037597656,0.0,Permeability,"Lipopolysaccharides (LPS), also known as endotoxins, are large molecules found in the outer membrane of Gram-negative bacteria. They are known to disrupt various cellular and physiological processes, leading to a range of pathophys"
+Baseline,0.0,2024,216.11395263671875,0.0,Persons,"In a biomedical context, Advanced Prostate Carcinoma (APC) is a type of cancer that affects the prostate gland. The relationship between APC and patients or groups via PROCESS_OF is a complex one, as it involves the progression of the disease"
+Baseline,0.0,2024,140.3476104736328,0.05405405405405406,Patients,"In a biomedical context, Ulcerative Colitis (UC) is a type of inflammatory bowel disease (IBD) that affects the large intestine (colon). The relationship between Ulcerative Colitis and patients or groups can be described using the PROCESS"
+Baseline,0.0,2024,220.8429718017578,0.0,thromboplastin activity,"Antibodies, Anti-Idiotypic stimulate the production of anti-antibodies, also known as anti-idiotypic antibodies. These are antibodies that are directed against the unique antigenic determinants (idiotopes) of another"
+Baseline,0.0,2024,171.50433349609375,0.0,Positron-Emission Tomography,"The anatomical location of the brain is within the skull, specifically within the cranial cavity."
+Baseline,0.0,2015,203.65438842773438,0.0,Lanugo,"In a biomedical context, the relationship between glucose-regulated proteins and tissues or organs is often described using the PART_OF relationship.
+
+PART_OF is a type of biological relationship that indicates that a part of an organism is a component of a larger whole. In"
+Baseline,0.0,2015,363.30535888671875,0.0,Households,"In a biomedical context, the relationship between ""Entire head"" and ""patients or groups"" via ""PART_OF"" is a specific type of relationship used in ontologies and knowledge graphs to describe the composition of anatomical structures.
+
+In this context,"
+Baseline,0.0,2015,183.8684539794922,0.04347826086956522,HIV prevention,"In a biomedical context, the relationship between Prophylactic treatment and medical entities via METHOD_OF is a specific type of relationship that indicates the method or approach used to prevent or mitigate a medical condition or disease.
+
+Prophylactic treatment refers to a medical intervention"
+Baseline,0.0,2015,269.384033203125,0.0,Triclosan,"Plants are not chemicals, they are living organisms that belong to the kingdom Plantae. They are multicellular eukaryotic organisms that make their own food through photosynthesis.
+
+Chemicals, on the other hand, are substances that are composed of atoms"
+Baseline,0.0,2015,162.28067016601562,0.0,Child,"In the Systematized Nomenclature of Medicine (SNOMED CT), Attention Deficit Hyperactivity Disorder (ADHD) is a condition that can be related to various medical entities through the ""OCCURS_IN"" relationship.
+
+The """
+Baseline,0.0,2015,202.32696533203125,0.0,Vitiligo,"Therapeutic procedures, like any medical intervention, can have potential risks and side effects, and in some cases, they can cause or induce certain diseases or conditions. Here are some examples:
+
+1. **Radiation therapy**:
+	* Radiation-induced"
+Baseline,0.0,2015,122.8546371459961,0.06060606060606061,cytokine,"In a biomedical context, Interferon-alpha (IFN-α) is a type of cytokine that plays a crucial role in the immune system, particularly in the defense against viral infections. ISA (Interferon-Stimulated Antiviral"
+Baseline,0.0,2015,326.7496032714844,0.0,Transition Elements,"Phenylalanine is an essential amino acid that can interact with several medical entities, including:
+
+1. **Levodopa**: Phenylalanine can decrease the effectiveness of levodopa, a medication used to treat Parkinson's disease, by"
+Baseline,0.0,2015,388.9268493652344,0.0,Deacetylation,"MST1 (Microsomal Streptothricin Acetyltransferase 1) is an enzyme that is involved in the metabolism of certain antibiotics, including streptothricin. However, I couldn't find any information on MST1"
+Baseline,0.0,2015,311.24267578125,0.0,Mothers,"In a biomedical context, a Papule is a type of skin lesion, typically a small, raised, and solid bump on the skin. The relationship between Papule and patients or groups via PROCESS_OF is not a standard or commonly used relationship in biomedical"
+Baseline,0.0,2015,240.19866943359375,0.0,Chemicals,"In a biomedical context, the relationship between metals and medical entities via ISA (Information Sharing Architecture) is a complex one, and I'll try to break it down for you.
+
+ISA is a framework for integrating and sharing data across different systems, applications,"
+Baseline,0.0,2015,122.35127258300781,0.0,Genome,"Escherichia coli (E. coli) is a type of bacteria, not a protein. It's a gram-negative, rod-shaped bacterium that is commonly found in the lower intestine of warm-blooded organisms (endotherms).
+
+So,"
+Baseline,0.0,2015,269.2961730957031,0.0,Angiogenesis,"Chemokines primarily affect the immune system, particularly the following medical entities:
+
+1. **Immune cells**: Chemokines are a family of small cytokines that are involved in the recruitment and activation of various immune cells, including:
+	* Ne"
+Baseline,0.0,2015,99.64643859863281,0.0,Enoxaparin,"In a biomedical context, Oral anticoagulants are a class of medications that prevent blood clotting. The relationship between Oral anticoagulants and other medical entities via COMPARED_WITH is as follows:
+
+**COMPARED_WITH:**
+
+*"
+Baseline,0.0,2015,288.95452880859375,0.0,Antibiotic Resistance,"Biological adaptation to stress primarily affects the body's endocrine, nervous, and immune systems. Here are some of the key medical entities that are affected by stress:
+
+1. **Hypothalamic-Pituitary-Adrenal (HP"
+Baseline,0.0,2015,174.52073669433594,0.04347826086956522,Chagas Disease,"Therapeutic vaccines are vaccines that are designed to treat or prevent diseases, rather than just prevent them. They are often used to treat chronic or autoimmune diseases, as well as certain types of cancer. Here are some examples of diseases or conditions that therapeutic"
+Baseline,0.0,2015,152.42283630371094,0.0,Experimental Autoimmune Encephalomyelitis,"Icariin is a flavonoid compound found in the plant Epimedium sagittatum, also known as horny goat weed. It has been traditionally used in Chinese medicine for various purposes, including enhancing male fertility, improving erectile function, and"
+Baseline,0.0,2015,118.65038299560547,0.0,"Receptors, Purinergic P1","The anatomical location of the endothelium is the innermost layer of cells lining the blood vessels, including:
+
+* Arteries
+* Veins
+* Capillaries
+* Lymphatic vessels
+
+The endothelium is a single"
+Baseline,0.0,2015,115.93905639648438,0.0,Patients,"Hydrocortisone is a corticosteroid medication that is commonly used to treat a variety of medical conditions. Here are some of the most common medical entities that hydrocortisone is used to treat:
+
+1. **Allergic"
+Baseline,0.0,2015,187.90843200683594,0.06060606060606061,DNA Damage,"APOBEC3B is a member of the APOBEC family of cytidine deaminases, which are enzymes that can introduce mutations into DNA by deaminating cytidine to uracil. This can lead to the formation"
+Baseline,0.0,2015,133.8660430908203,0.0,Chloroquine,"In a biomedical context, an assay is a laboratory procedure used to measure the concentration or amount of a specific substance, such as a biomolecule, in a sample. MEASURES (Measurement of Assay Sensitivity and Variability in Experimental Research Using"
+Baseline,0.0,2015,193.35995483398438,0.0,Apoptosis,"Paraquat is a highly toxic herbicide that primarily affects the mitochondria of cells, particularly in the lungs, liver, and kidneys. It is a redox-cycling herbicide, which means that it can generate reactive oxygen species (ROS) that"
+Baseline,0.0,2015,124.11759185791016,0.0,Mucormycosis,"Therapeutic procedures are commonly used to treat a wide range of diseases and conditions, including:
+
+1. **Musculoskeletal disorders**:
+	* Osteoarthritis: joint injections, platelet-rich plasma (PRP) therapy, and"
+Baseline,0.0,2015,133.0797119140625,0.0,Multiple Myeloma,"Prevention is a broad term that encompasses various strategies and interventions aimed at preventing the onset or progression of diseases or conditions. Here are some examples of diseases or conditions that prevention is commonly used to treat or manage:
+
+1. **Chronic diseases**:"
+Baseline,0.0,2015,161.64822387695312,0.0,Family alcedinidae,"I don't have information on the relationship between Kingfisher and medical entities via ISA. If you have more context or details about what you're asking, I'd be happy to try and help further."
+Baseline,0.0,2015,178.94073486328125,0.0,Mus,"I don't have the specific information on the relationship between Crohn's disease and species via PROCESS_OF in a biomedical context. The relationship between Crohn's disease and species is complex and involves various factors including genetic predisposition, environmental triggers, and the"
+Baseline,0.0,2015,94.59083557128906,0.0,SLC2A1 gene|SLC2A1,"The anatomical location of skeletal muscle structure is the musculoskeletal system, which includes the bones, joints, and muscles that provide support, movement, and stability to the body.
+
+More specifically, skeletal muscle is found in the following locations:
+
+1."
+Baseline,0.0,2015,181.541748046875,0.0,Dimethyl Sulfoxide,"Indoles are a class of heterocyclic compounds that are commonly found in various natural products, such as plants, animals, and microorganisms. They are also used as intermediates in the synthesis of various pharmaceuticals and agrochemicals. Some"
+Baseline,0.0,2015,237.97329711914062,0.0,Inflammatory Response,"Gamma-terpinene is a monoterpene, a type of terpene, which is a class of organic compounds found in plants. It is a naturally occurring compound that has been found in various plants, including the leaves of certain species of"
+Baseline,0.0,2015,212.42758178710938,0.04545454545454545,Patients,"In a biomedical context, Symptom Remission is a concept that can be related to patients or groups through the relationship PROCESS_OF.
+
+PROCESS_OF is a semantic relationship in the Unified Medical Language System (UMLS) that indicates a process or action that is"
+Baseline,0.0,2015,162.4452667236328,0.04878048780487806,Patients,"In a biomedical context, Hemoglobinopathies are a group of genetic disorders that affect the production of hemoglobin, a protein in red blood cells that carries oxygen to the body's tissues. The relationship between Hemoglobinopathies and patients or groups can"
+Baseline,0.0,2015,74.09449768066406,0.0,"Tuberculosis, Multidrug-Resistant","Therapeutic procedures are commonly used to treat a wide range of diseases and conditions, including:
+
+1. **Musculoskeletal disorders**:
+	* Osteoarthritis: joint injections, platelet-rich plasma (PRP) therapy, and"
+Baseline,0.0,2015,363.8139953613281,0.0,FOOT SYMPTOM,"Intervention regimes are commonly used to treat various medical entities, including:
+
+1. **Addiction**: Substance use disorders, such as opioid addiction, alcoholism, and other substance use disorders.
+2. **Mental health conditions**: Psychiatric disorders,"
+Baseline,0.0,2015,218.6101531982422,0.041666666666666664,Dietary Proteins,"I don't have the specific information on the anatomical location of proteins related to infant or premature conditions. Proteins are involved in a wide range of biological processes, and their locations can vary greatly depending on the specific protein and the context of the condition"
+Baseline,0.0,2015,428.66943359375,0.0,Conflict (Psychology),"Violence can affect various medical entities, including:
+
+1. **Psychiatry**: Violence is often associated with mental health conditions such as:
+	* Schizophrenia
+	* Bipolar disorder
+	* Post-traumatic stress disorder (PTSD"
+Baseline,0.0,2015,95.37559509277344,0.0,Pregnancy loss,"In a biomedical context, Thrombophilia refers to a condition characterized by an increased tendency to form blood clots (thrombi) in the blood vessels. PREDISPOSES is an acronym that stands for ""Predisposing factors that increase"
+Baseline,0.0,2015,236.1492919921875,0.09523809523809523,tumor growth,"The TP53 gene, also known as the tumor protein p53, is a tumor suppressor gene that plays a crucial role in regulating cell growth and division. Mutations in the TP53 gene can lead to various diseases and conditions, including:
+
+1"
+Baseline,0.0,2015,221.66885375976562,0.05128205128205127,Patients,"In a biomedical context, the relationship between Submandibular and patients or groups via PART_OF is a specific type of relationship that indicates a part-whole or component-whole relationship.
+
+In this context, Submandibular refers to the submand"
+Baseline,0.0,2015,526.18212890625,0.0,Child,"Diagnosis is a process of identifying and naming a disease or condition, and it is typically administered to patients who are experiencing symptoms or health problems. The patients or groups to which diagnosis is administered can be broadly categorized as follows:
+
+1. **Outpatients"
+Baseline,0.0,2015,270.4290771484375,0.05,Medical pins,"In a biomedical context, the relationship between Implantation procedure and medical entities via USES (User, System, Entity, Service) is as follows:
+
+**User**: The user in this context is the healthcare professional or medical practitioner who performs the implant"
+Baseline,0.0,2015,138.77662658691406,0.0,Neutrophil Activation,Agonists are substances that bind to a receptor and induce a response. They can cause or induce various physiologic functions depending on the type of receptor they bind to and the specific response they elicit. Here are some examples of physiologic
+Baseline,0.0,2015,272.26226806640625,0.0,Carnitine,"Blood is not a protein, but rather a liquid tissue that circulates through the body's vascular system, carrying oxygen, nutrients, and waste products to and from cells. It's a complex mixture of various components, including:
+
+1. Plasma (about"
+Baseline,0.0,2015,135.05789184570312,0.08888888888888889,Primary carcinoma of the liver cells,"Carcinogenesis, the process of cancer development, is often associated with various diseases and conditions that can either contribute to its initiation, promotion, or progression. Here are some of the diseases or conditions that commonly co-exist with carcinogenesis:
+
+1"
+Baseline,0.0,2015,236.78817749023438,0.0,GUCY2C,"In a biomedical context, the relationship between Mutation and Genes via PROCESS_OF is that a Mutation is a process that acts upon a Gene.
+
+In other words, a Mutation is an event or a change that occurs in a Gene, resulting in a new"
+Baseline,0.0,2015,154.0469207763672,0.0,Yolk Sac Tumor,"The anatomical location of the ovaries is in the lower abdomen, on either side of the uterus."
+Baseline,0.0,2015,98.76029968261719,0.046511627906976744,apolipoprotein A-IV,"In a biomedical context, the relationship between the intestines, small, and proteins via PRODUCES is as follows:
+
+The small intestine is a part of the digestive system where most of our nutrient absorption takes place, including proteins. The small intestine"
+Baseline,0.0,2015,135.08624267578125,0.0,Cystic Neoplasm,"The pancreas is an organ located in the abdominal cavity, and its anatomical location is closely related to several diseases and conditions. Here are some of them:
+
+1. **Pancreatitis**: Inflammation of the pancreas, which can be"
+Baseline,0.0,2015,149.86660766601562,0.0,Fetal Diseases,"Glucose phosphate isomerase (GPI) deficiency is a rare genetic disorder that affects the body's ability to break down glucose, a type of sugar. This deficiency can lead to a range of health problems, including:
+
+1. **Hem"
+Baseline,0.0,2015,194.23843383789062,0.08695652173913042,Scaffold protein,I don't have access to a search engine to provide information on the specific proteins that AFAP1L2 significantly interacts with.
+Baseline,0.0,2015,211.56126403808594,0.05555555555555555,physiological aspects,"Ribosomal proteins primarily affect the following physiologic functions:
+
+1. **Protein Synthesis**: Ribosomal proteins are essential components of ribosomes, which are the cellular machinery responsible for translating messenger RNA (mRNA) into proteins. They play a"
+Baseline,0.0,2015,232.21580505371094,0.05,Population Group,"In a biomedical context, Phonological Awareness refers to the ability to identify, segment, and manipulate the sounds of language, such as rhyming, word families, and syllable counting. The relationship between Phonological Awareness and patients or groups via PROCESS"
+Baseline,0.0,2015,101.8041763305664,0.0,Sickle Cell Anemia,"Pain management is a medical specialty that involves the assessment, diagnosis, and treatment of various types of pain. Pain management is commonly used to treat a wide range of diseases and conditions, including:
+
+1. **Chronic pain**: Conditions such as fib"
+Baseline,0.0,2015,96.7430648803711,0.0,Female genitalia,"Prostaglandin-Endoperoxide Synthase (also known as Cyclooxygenase or COX) primarily affects the tissues or organs involved in the inflammatory response, pain, and fever regulation. Specifically, it is involved in the production"
+Baseline,0.0,2015,117.18400573730469,0.0,nervous system disorder,"In a biomedical context, ISA (Inferential Similarity Analysis) is a method used to identify relationships between diseases or conditions based on their underlying biological mechanisms, pathways, and molecular interactions. In the case of Multiple Sclerosis (MS), ISA can"
+Baseline,0.0,2015,198.86883544921875,0.05714285714285715,Apolipoprotein A-II|APOA1|LPA,"I don't have information on which proteins the LAMR1 gene|RPSA stimulates. If you have any other questions or need information on a different topic, feel free to ask!"
+Baseline,0.0,2015,373.1396484375,0.0,Sheep,"I don't have the specific information on which species the skeletal fixation procedure is commonly used to treat. Skeletal fixation is a general term that can refer to various medical procedures used to stabilize and align bones, but without more context, it's difficult to"
+Baseline,0.0,2015,195.98460388183594,0.06451612903225806,Patients,"In a biomedical context, the relationship between Epilepsy and patients or groups can be described using the PROCESS_OF relationship in the following way:
+
+**Epilepsy** → **Patient** or **Group** → **Experiences** → **Seiz"
+Baseline,0.0,2015,153.1096954345703,0.0,Open Reading Frames,"In a biomedical context, Plasmids and Genes are related via the relationship NEG_COEXISTS_WITH, which is a type of relationship in the Gene Ontology (GO) that indicates that two entities do not coexist in the same cellular location"
+Baseline,0.0,2015,147.38316345214844,0.0,Liver Failure,"Granulocyte Colony-Stimulating Factor (G-CSF) is most strongly associated with the pathologic function of stimulating the production and maturation of granulocytes, which are a type of white blood cell. Specifically, G-CSF is involved"
+Baseline,0.0,2015,165.0733642578125,0.0,Elderly,"In a biomedical context, Alzheimer's Disease (AD) is a complex neurodegenerative disorder that involves a series of pathological processes. The relationship between Alzheimer's Disease and other medical entities can be described using the PROCESS_OF relationship, which indicates that one"
+Baseline,0.0,2015,460.1639099121094,0.0,Stress,"I'm not sure what you mean by ""Entire tooth."" Could you provide more context or clarify what you are referring to?"
+Baseline,0.0,2015,89.93389892578125,0.0,Human,"In a biomedical context, Hypogonadotropic hypogonadism is a condition where the gonads (ovaries in females and testes in males) do not produce sufficient sex hormones due to a lack of stimulation from the pituitary"
+Baseline,0.0,2015,190.71153259277344,0.08888888888888888,I Kappa B-Alpha,"NF-kappa B (NF-κB) is a protein complex that plays a significant role in regulating the immune response, inflammation, and cell survival. It interacts with numerous proteins to execute its functions. Here are some of the key proteins that NF"
+Baseline,0.0,2015,210.85316467285156,0.0,Water,"In a biomedical context, bone wires are often used in conjunction with pharmacologic substances to enhance their effectiveness or to facilitate their delivery. Here are some ways in which bone wires and pharmacologic substances interact via USES (Uses):
+
+1. **Bone fixation"
+Baseline,0.0,2015,225.49560546875,0.0,Assay,"In a biomedical context, Polymerase Chain Reaction (PCR) is a laboratory technique used to amplify specific DNA sequences. The relationship between PCR and medical entities via METHOD_OF is as follows:
+
+**PCR is a method used in various medical entities to:**"
+Baseline,0.0,2015,283.9070129394531,0.0,Linoleic Acid,"Plasma is not an anatomical location, but rather a component of blood. It is the liquid portion of the blood that makes up about 55% of its total volume. Plasma is a clear, straw-colored liquid that carries cells, proteins,"
+Baseline,0.0,2015,176.38723754882812,0.0,Swelling,"The clinical findings of the anatomical location of the spinal cord are:
+
+1.  **Cervical Spine:** The cervical spine is located in the neck region. Clinical findings of cervical spine injuries or conditions include:
+    *   Neck pain or"
+Baseline,0.0,2015,287.06890869140625,0.052631578947368425,Disease,"Therapeutic procedures can affect a wide range of diseases and conditions, depending on the specific procedure being performed. Here are some examples of diseases and conditions that various therapeutic procedures are used to treat:
+
+1. **Cardiovascular diseases**:
+	*"
+Baseline,0.0,2015,145.42486572265625,0.0,Carcinoma,"The pancreas is an organ located in the abdominal cavity, and its anatomical location is closely related to several diseases and conditions. Here are some of them:
+
+1. **Pancreatitis**: Inflammation of the pancreas, which can be"
+Baseline,0.0,2015,345.6966247558594,0.05714285714285715,Growth,"Lapatinib is a medication that primarily affects certain types of cancer cells, particularly those that are driven by the HER2/neu (human epidermal growth factor receptor 2) and epidermal growth factor receptor (EGFR) pathways"
+Baseline,0.0,2015,176.52606201171875,0.0,Dromedary,"Rift Valley Fever (RVF) is a viral disease that affects animals and humans. The relationship between Rift Valley Fever and species via PROCESS_OF is that the virus is transmitted between species through various vectors, primarily mosquitoes, and also through direct contact with"
+Baseline,0.0,2015,261.63262939453125,0.0,Labium,"In a biomedical context, a Groove is a type of anatomical structure that can be related to tissues or organs via the PART_OF relationship.
+
+In this context, PART_OF is a semantic relationship that indicates that one entity (in this case, a"
+Baseline,0.0,2015,268.7806091308594,0.0,Apoptosis,"Mechanical stimulation primarily affects cells that are sensitive to mechanical forces, which include:
+
+1. **Mechanoreceptors**: These are specialized sensory receptors that detect mechanical forces, such as stretch, pressure, and vibration. They are found in various tissues,"
+Baseline,0.0,2015,123.83235931396484,0.0,Aldosterone,"Cyclic GMP-dependent protein kinases (PKG) are a family of enzymes that play a crucial role in various cellular processes, including smooth muscle relaxation, platelet aggregation, and neuronal signaling. They are activated by cyclic guanosine monophosphate"
+Baseline,0.0,2015,272.90460205078125,0.0,Adolescent,"In a biomedical context, the relationship between Learning and patients or groups via PROCESS_OF is a complex one. Here's a breakdown:
+
+**Learning** is a process that involves the acquisition of new knowledge, skills, or behaviors. In a biomedical context,"
+Baseline,0.0,2015,86.87968444824219,0.09302325581395349,Cyclic AMP-Dependent Protein Kinases,"CAMP (cyclic adenosine monophosphate) is a secondary messenger molecule that plays a crucial role in cellular signaling pathways. It is often associated with various proteins that help to regulate its activity, stability, and downstream effects. Some common proteins"
+Baseline,0.0,2015,133.35833740234375,0.0,Levosimendan,"Endothelial cells are a type of cell that lines the interior surface of blood vessels and lymphatic vessels, forming an interface between circulating blood or lymph in the lumen and the rest of the vessel wall. They are found in various locations throughout the"
+Baseline,0.0,2015,92.43158721923828,0.0,Hepatic Encephalopathy,"Tranilast is a medication that has been used to treat various conditions, including asthma, allergies, and certain types of cancer. However, like all medications, it can cause or induce certain side effects and conditions in some individuals. Here are some"
+Baseline,0.0,2015,31.258264541625977,0.0,"ATPase, Aminophospholipid Transporter-Like, Class I, Type 8A, Member 2|ATP8A2","The Inferior Colliculus is a structure located in the midbrain, specifically in the auditory pathway. It is a part of the auditory system and is involved in the processing of auditory information.
+
+The Inferior Colliculus is situated in the lateral"
+Baseline,0.0,2015,226.62969970703125,0.0,Laparoscopy,"Hospitals are medical facilities that provide medical and surgical treatment to patients. The anatomical location of a hospital is typically a building or a complex of buildings that houses various departments and services, including:
+
+1. Emergency Department (ED)
+2. Operating"
+Baseline,0.0,2015,74.40670013427734,0.0,Primary immune deficiency disorder,I can’t provide information on the medical use of 3-bromoacetoxyandrostan-17-one. Is there anything else I can help you with?
+Baseline,0.0,2015,127.89433288574219,0.0,Thrombin,"Platelet-rich plasma (PRP) is a component of blood that is rich in platelets, which are small blood cells that play a crucial role in blood clotting and wound healing. The anatomical location of platelet-rich plasma is in the"
+Baseline,0.0,2015,144.3492431640625,0.05,Disease,"Operative surgical procedures are commonly used to treat a wide range of diseases and conditions, including:
+
+1. **Cancer**: Surgical oncology is a branch of surgery that involves the removal of tumors, cancerous tissues, and affected organs to treat various"
+Baseline,0.0,2015,199.57275390625,0.0,Muscle,"In a biomedical context, the relationship between Tissue fiber and tissues or organs via PART_OF is a hierarchical relationship.
+
+Tissue fibers are the basic structural and functional units of tissues, which are groups of similar cells that perform specific functions. Tissues are"
+Baseline,0.0,2015,165.68775939941406,0.0,Woman,"In a biomedical context, Thromboembolism is a medical condition where a blood clot (thrombus) breaks loose and travels through the bloodstream, potentially causing a blockage in a blood vessel (embolism). The relationship between Th"
+Baseline,0.0,2015,274.0113830566406,0.0,Primates,"In a biomedical context, the relationship between a host and a species via PART_OF is a hierarchical relationship that indicates that the host is a part of the species.
+
+In this context, the PART_OF relationship is used to represent the fact that the host is"
+Baseline,0.0,2015,181.4345245361328,0.0,proteoliposomes,"Norfloxacin is a fluoroquinolone antibiotic that can interact with several medical entities, including:
+
+1. **Warfarin**: Norfloxacin can increase the risk of bleeding when taken with warfarin, a blood thinner."
+Baseline,0.0,2015,79.78164672851562,0.0,Dopamine Receptor,"The Nucleus Accumbens (NAcc) is a subcortical structure located in the basal forebrain, specifically in the ventral striatum. It is situated in the basal forebrain, near the base of the brain, and"
+Baseline,0.0,2015,162.49119567871094,0.0,Apoptosis,"Asbestos is a group of naturally occurring fibrous silicate minerals that have been widely used in various industrial applications, including construction, insulation, and brake pads. In a biomedical context, asbestos exposure has been linked to various health problems, including lung diseases"
+Baseline,0.0,2015,212.48776245117188,0.0,Chlorophyll,"A seedling is not a chemical, but rather a young plant that has just begun to grow from a seed. It's a stage in the life cycle of a plant, not a chemical compound.
+
+If you're thinking of a specific chemical related to"
+Baseline,0.0,2015,131.1595916748047,0.0,Recurrent Carcinoma,"Trabectedin, also known as ecteinascidin 743, is a chemotherapeutic agent that is commonly used to treat certain types of cancer. It is a synthetic derivative of a natural compound found in the Caribbean sea squirt, E"
+Baseline,0.0,2015,337.8822937011719,0.0,college student,"In a biomedical context, the relationship between alcohol consumption and patients or groups can be described using the PROCESS_OF relationship in a semantic model. The PROCESS_OF relationship indicates that one entity (in this case, alcohol consumption) is a process or an activity that"
+Baseline,0.0,2015,228.7095184326172,0.0,Myelofibrosis,"I don't have information on a specific ""Agent"" that is commonly used to treat diseases or conditions. Could you provide more context or clarify which Agent you are referring to? This will help me give you a more accurate and helpful response."
+Baseline,0.0,2015,152.82005310058594,0.0,"Infant, Newborn","In a biomedical context, hemolysis refers to the breakdown of red blood cells, which can lead to the release of hemoglobin and other cellular components into the bloodstream. The relationship between hemolysis and patients or groups via PROCESS_OF can be described"
+Baseline,0.0,2015,141.65740966796875,0.0,Malignant Neoplasms,"Cell communication is a fundamental process that occurs in all living organisms, and disruptions to this process can lead to various diseases and conditions. Here are some diseases and conditions that commonly co-exist with cell communication disorders:
+
+1. **Cancer**: Cancer cells"
+Baseline,0.0,2015,167.60678100585938,0.10810810810810811,Protein p53|TP53,"MDM4 (also known as MDM4 or MDM4L) is a protein that interacts with several other proteins, particularly those involved in the p53 pathway. Some of the proteins that MDM4 significantly interacts with include:
+
+1."
+Baseline,0.0,2015,295.697021484375,0.0,Mus,"In a biomedical context, there is no direct relationship between ""Manic behavior"" and ""species"" via the PROCESS_OF relationship.
+
+Manic behavior is a psychological or psychiatric condition characterized by excessive energy, excitement, and impulsivity, often associated with bipolar"
+Baseline,0.0,2015,228.5218963623047,0.05,Regulatory sequence,"In a biomedical context, the relationship between DNA Sequence and medical entities via PART_OF is a complex one. Here's a breakdown:
+
+**DNA Sequence** is a sequence of nucleotides (A, C, G, and T) that make up"
+Baseline,0.0,2015,271.46746826171875,0.0,Young adult,"In a biomedical context, the relationship between ""Hypertensive"" and ""patients or groups"" via ""PROCESS_OF"" is likely referring to the process of developing or experiencing hypertension.
+
+Here's a breakdown of the relationship:
+
+* ""Hypert"
+Baseline,0.0,2015,196.48428344726562,0.0,Antioxidants,"I don't have specific information on the relationship between acetovanillone and pharmacologic substances via ISA (Insulin Sensitizing Agents) in a biomedical context. My previous response was an error, and I appreciate you bringing this to my attention."
+Time_Erased,-0.6,2024,125.39473724365234,0.05,Patients,"In a biomedical context, Restrictive cardiomyopathy is a type of heart muscle disease that affects the heart's ability to fill with blood. In this case, the relationship between Restrictive cardiomyopathy and patients or groups via PROCESS_OF would"
+Time_Erased,-0.6,2024,101.66184997558594,0.0,Transplant Recipients,"In a biomedical context, Immunologic Deficiency Syndromes are related to medical entities via the PROCESS_OF relationship.
+
+In this context, the PROCESS_OF relationship indicates that the Immunologic Deficiency Syndromes are the result of a process or a disease"
+Time_Erased,-0.6,2024,97.48267364501953,0.09999999999999999,Bone structure of tibia,"In a biomedical context, the Proximal epiphyseal growth plate is a part of the bone, specifically the long bones of the limbs. In this case, the relationship between the Proximal epiphyseal growth plate and the bone"
+Time_Erased,-0.6,2024,274.99359130859375,0.0,Biospecimen,"I think you meant to ask ""Which medical entity is the anatomical location of the impaired driver?""
+
+In that case, I'm assuming you're referring to the part of the brain that's responsible for controlling the body's motor functions, particularly in relation"
+Time_Erased,-0.6,2024,99.57709503173828,0.0,Hyperkinesia,"A nice epidemiology question!
+
+In the context of PRECEDES (Program Evaluation and Review Technique for Evaluating Developmental Evaluation of School Health Education), which is a model for evaluating health education programs, I believe you are asking about the relationship between C"
+Time_Erased,-0.6,2024,192.42115783691406,0.0,Shock,"Duodenal Ulcer can cause or induce the following pathologic functions:
+
+1.  **Malabsorption**: The ulcer can damage the lining of the duodenum, which can lead to malabsorption of nutrients, particularly iron, calcium,"
+Time_Erased,-0.6,2024,144.5231475830078,0.04,"Tumor cells, uncertain whether benign or malignant","Adipocytes, also known as fat cells, are the cells that store fat in the body. They are an important type of cell in the body and interact with several other cell types in various tissues. Some of the cell types that adipocytes significantly"
+Time_Erased,-0.6,2024,73.26155090332031,0.0,chlorophyll,"A nice question about a classic enzyme!
+
+Ribulose-Bisphosphate Carboxylase, also known as RuBisCO, is an enzyme that is involved in the Calvin cycle, which is a key process in photosynthesis.
+
+In the"
+Time_Erased,-0.6,2024,115.83992004394531,0.05555555555555556,Patients,"Hypofractionated radiation therapy is typically administered to patients with:
+
+1. Early-stage breast cancer: In the 1990s, hypofractionation was first used for early-stage breast cancer, and it has since become a standard treatment option"
+Time_Erased,-0.6,2024,196.88710021972656,0.0,Persons,"In a biomedical context, Exudative maculopathy is a condition that affects the macula, the part of the retina responsible for central vision. It's a type of macular degeneration.
+
+The PROCESS_OF relationship in this case would be that"
+Time_Erased,-0.6,2024,160.51092529296875,0.0,benzene,"Volatile Organic Compounds (VOCs) can interact with various medical entities, including:
+
+1. Respiratory system: VOCs can irritate the eyes, nose, throat, and lungs, causing respiratory problems such as asthma, bronchitis"
+Time_Erased,-0.6,2024,362.5814208984375,0.0,CCNB1,"I think you meant to ask ""Which gene is the anatomical location of the Family Suidae?""
+
+The Family Suidae is the family of pigs, and the anatomical location you are probably thinking of is the snout!"
+Time_Erased,-0.6,2024,181.01895141601562,0.0,Peptides,"Palmitoylation is a post-translational modification that involves the attachment of a palmitoyl group to a cysteine residue in a protein. This modification is primarily found in proteins that are involved in cell signaling, membrane trafficking, and"
+Time_Erased,-0.6,2024,135.49154663085938,0.0,COVID-19,"Pathogenesis is a term that refers to the process of disease development or the origin of disease. It's not a disease itself, but rather a concept in the field of pathology. However, I think you might be asking about diseases or conditions that are"
+Time_Erased,-0.6,2024,108.93724822998047,0.0,Ferroptosis,"Oxidative stress primarily affects cells that have high metabolic rates, high levels of oxygen, and high levels of polyunsaturated fatty acids in their membranes. These cells are more prone to oxidative damage because they produce more reactive oxygen species (ROS)"
+Time_Erased,-0.6,2024,120.1421127319336,0.0,Normal sedimentation rate,Tocilizumab is a monoclonal antibody that is commonly used to treat rheumatoid arthritis. It is used to treat moderate to severe rheumatoid arthritis that has not responded to other treatments. It is also used to treat systemic juvenile
+Time_Erased,-0.6,2024,126.03892517089844,0.0,Virus Replication,RNA-binding proteins (RBPs) primarily affect messenger RNA (mRNA) in the cell.
+Time_Erased,-0.6,2024,84.06317138671875,0.0,Magnetic Resonance Imaging,The anatomical location of the spinal canal is the spine.
+Time_Erased,-0.6,2024,113.53086853027344,0.0,Progressive Neoplastic Disease,"Complete cystectomy, also known as total cystectomy, is a surgical procedure that involves removing the bladder. It is commonly used to treat bladder cancer, specifically:
+
+1. Muscle-invasive bladder cancer: This is a type of bladder cancer that has grown"
+Time_Erased,-0.6,2024,151.7463836669922,0.0,Macrophage Activation,"In a biomedical context, I'm not familiar with the term ""AUGMENTS"" in relation to Fibroins and cell types. Could you please provide more context or clarify what you mean by ""AUGMENTS""?"
+Time_Erased,-0.6,2024,167.38363647460938,0.0,Protoplasm,"In a biomedical context, lutein is a carotenoid pigment that is an antioxidant. In this context, the relationship between lutein and medical entities via PART_OF would be related to its role in the eye.
+
+In the eye, l"
+Time_Erased,-0.6,2024,227.84817504882812,0.0,Immune response,"Photochemotherapy, also known as PUVA (psoralen and ultraviolet A) therapy, primarily affects the skin. It is a treatment used to treat skin conditions such as psoriasis, vitiligo, and certain types of skin cancer."
+Time_Erased,-0.6,2024,231.87876892089844,0.0,Physicians,"I'm not familiar with a treatment called ""Challenge"" in the context of medical treatment. Could you please provide more information or context about what you're referring to?"
+Time_Erased,-0.6,2024,103.17237091064453,0.06060606060606061,Patients,"Cabozantinib is a tyrosine kinase inhibitor that is commonly used to treat certain types of cancer. It is used to treat:
+
+1. Metastatic medullary thyroid cancer: Cabozantinib is used to treat patients"
+Time_Erased,-0.6,2024,89.45880126953125,0.0,Neoplasm Metastasis,"Eukaryotic cells are the basic building blocks of all living things, and they are found in all eukaryotes, which include plants, animals, fungi, and protists. So, the diseases or conditions that affect eukaryotic"
+Time_Erased,-0.6,2024,305.75146484375,0.0,Staff,"In a biomedical context, if Worried is related to patients or groups via PROCESS_OF, it means that the Worried is a process that is being applied to or is being done to the patients or groups.
+
+In other words, the Worried is"
+Time_Erased,-0.6,2024,152.2826385498047,0.05,Quantity,"In a biomedical context, an Assay is a procedure used to measure the value of a quantity in a sample. In the context of the Unified Medical Language System (UMLS) and the RIME (Relationships Interchange Model for the Entity-"
+Time_Erased,-0.6,2024,208.12326049804688,0.0,Demyelination,"In the context of biochemistry, a complex (molecular entity) can cause or induce various pathologic functions, depending on its nature and the context in which it is found. Here are some examples:
+
+1. **Toxins**: In the"
+Time_Erased,-0.6,2024,231.5310821533203,0.05,Patients,"Ventricular function, right refers to the function of the right ventricle of the heart. The right ventricle is responsible for pumping blood from the right atrium to the lungs to pick up oxygen. So, patients or groups that would"
+Time_Erased,-0.6,2024,227.8568572998047,0.0,TJP1 gene|TJP1,"Endotoxins stimulate the production of cytokines, which are proteins that help fight off infections."
+Time_Erased,-0.6,2024,298.63726806640625,0.04166666666666667,Patients,"In a biomedical context, the relationship between Chronic obstruction and patients or groups via PROCESS_OF would be that the Chronic obstruction is a process that affects the patients or groups. In other words, the Chronic obstruction is a process that happens to the patients or groups"
+Time_Erased,-0.6,2024,142.62583923339844,0.0,Patients,"Arthroplasty, or joint replacement, is a surgical procedure used to replace a joint that is damaged or diseased. In the case of partial knee replacement, it is used to treat conditions that affect the knee joint, specifically the medial (inner"
+Time_Erased,-0.6,2024,48.66107177734375,0.0,"Multiple Sclerosis, Relapsing-Remitting","Single Agent Therapy is a treatment approach where a single medication is used to treat a disease or condition. In the context of diseases or conditions, Single Agent Therapy is commonly used to treat:
+
+1. Hypertension (High Blood Pressure): Diuretics"
+Time_Erased,-0.6,2024,199.3243408203125,0.0,Calcinosis,"The radial artery is a blood vessel that is located in the forearm. It is one of the two main arteries that supply blood to the hand. The radial artery is located on the lateral side of the forearm, and it runs along the radius bone."
+Time_Erased,-0.6,2024,184.05723571777344,0.047619047619047616,analgesic effect,"Nalmefene is a medication that is primarily used to treat alcohol dependence. It is an opioid antagonist, which means it blocks the action of opioids in the brain. When used to treat alcohol dependence, nalmefene works by blocking the effects"
+Time_Erased,-0.6,2024,210.71063232421875,0.044444444444444446,Patients,"In a biomedical context, Proteinuria is a condition where there is an abnormal amount of protein in the urine. In this case, the relationship between Proteinuria and patients or groups via PROCESS_OF would be that Proteinuria is a process that affects patients or"
+Time_Erased,-0.6,2024,157.95372009277344,0.0,CALCR,"In a biomedical context, Triglycerides are a type of fat found in the blood, and they are related to genes via the enzyme LPL (Lipoprotein Lipase). LPL is an enzyme that breaks down triglycerides in the"
+Time_Erased,-0.6,2024,224.873779296875,0.044444444444444446,Patients,"In a biomedical context, the relationship between melanoma and patients or groups via PROCESS_OF would be related to the process of developing or treating melanoma.
+
+In this case, the PROCESS_OF relationship would indicate that the process of developing or treating melanoma is"
+Time_Erased,-0.6,2024,304.51300048828125,0.0,Outpatients,"Counseling is typically administered to individuals or groups who are experiencing problems or difficulties in their personal, social, or vocational lives. This can include:
+
+1. Children and adolescents: Counseling may be provided to children and adolescents who are experiencing problems such as"
+Time_Erased,-0.6,2024,204.59494018554688,0.0,Bright field,"In a biomedical context, Laboratory Procedures and medical entities are related via the concept of ""USES"" (Usage). In this context, USES refers to the purpose or function of a Laboratory Procedure in relation to a medical entity, such as a disease,"
+Time_Erased,-0.6,2024,200.25527954101562,0.0,Fibrosis,"Intraperitoneal injections can cause several pathologic functions, including:
+
+1. Peritonitis: Infection of the peritoneum, the lining of the abdominal cavity.
+2. Perforation of the intestine: Hole in the intestine that"
+Time_Erased,-0.6,2024,117.94881439208984,0.0,osteopontin,"The anatomical location of macrophages can vary depending on the type of tissue or organ. However, some common locations where macrophages are found include:
+
+*   Lymph nodes
+*   Spleen
+*   Liver
+*"
+Time_Erased,-0.6,2024,201.54576110839844,0.05,IMPACT gene,"I'm not familiar with the specific genes that commonly co-exist with Ribonucleoproteins|RNPC3. Could you provide more context or information about what you're looking for? That way, I can try to help you find the"
+Time_Erased,-0.6,2024,314.52044677734375,0.0,"Infant, Newborn","In a biomedical context, if I understand correctly, you're asking about the relationship between ""Interested"" and patients or groups via the PROCESS_OF relationship.
+
+In this case, I believe you're referring to the ""Interested"" entity being a patient or a"
+Time_Erased,-0.6,2024,46.677955627441406,0.0,Adenocarcinoma,"The esophagogastric junction is the area where the esophagus meets the stomach. So, the diseases or conditions that can affect this area are:
+
+1. Esophageal reflux (GERD) - also known as acid reflux or"
+Time_Erased,-0.6,2024,239.17449951171875,0.0,Labor (Childbirth),"I'm not familiar with a medical entity called ""Cesarean"" that would stimulate anything. Could you be referring to a different term? Perhaps you meant ""Cesarean section"", which is a surgical delivery method where the baby is born"
+Time_Erased,-0.6,2024,106.7831039428711,0.0,Astrocytes,"The spinal cord is a part of the central nervous system, and it is located in the vertebral canal of the spine. It is a long, thin, tube-like structure that extends from the base of the brain down to the lower back, and"
+Time_Erased,-0.6,2024,337.0161437988281,0.0,Vitality,"Metals can cause or induce a variety of clinical findings, depending on the type of metal and the amount of exposure. Here are some examples:
+
+1. **Lead**: Lead poisoning can cause:
+	* Anemia
+	* Constipation"
+Time_Erased,-0.6,2024,299.443359375,0.0,collagen catabolic process,"Sirolimus, also known as rapamycin, is an immunosuppressant drug that works by inhibiting the mammalian target of rapamycin (mTOR) pathway. It is used to prevent rejection in organ transplant patients and to"
+Time_Erased,-0.6,2024,134.08938598632812,0.04347826086956522,Vascular Endothelial Cells,"Silicon is an essential element for plants, and it primarily affects plant cells. In plant cells, silicon is found in the form of silica, which is a component of the cell wall. It is particularly important for the development of plant cell walls,"
+Time_Erased,-0.6,2024,245.0489959716797,0.09523809523809523,Lipid Metabolism,"The PPARG gene, which stands for Peroxisome proliferator-activated receptor gamma, is a gene that encodes for a nuclear receptor that plays a key role in glucose and lipid metabolism. PPARG is a transcription factor that regulates the expression of"
+Time_Erased,-0.6,2024,27.1507511138916,0.04,MRSA - Methicillin resistant Staphylococcus aureus infection,"Meropenem is a broad-spectrum antibiotic that is commonly used to treat a variety of bacterial infections. It is particularly effective against gram-negative bacteria, which are bacteria that have a thin outer membrane that is resistant to many antibiotics.
+
+Some of the diseases"
+Time_Erased,-0.6,2024,84.668701171875,0.0,Tardive Dyskinesia,"Psychometrics is not a disease or condition itself, but rather a field of study in psychology that deals with the theory and technique of psychological measurement. It's the science of measuring psychological attributes, such as intelligence, personality, attitudes, and abilities.
+
+However"
+Time_Erased,-0.6,2024,200.4803924560547,0.05,CMTM6 gene|CMTM6,"Short Hairpin RNA (shRNA) is a type of small interfering RNA (siRNA) that is used to silence gene expression by targeting messenger RNA (mRNA) for degradation. When shRNA is expressed in a cell, it is processed into"
+Time_Erased,-0.6,2024,83.67745208740234,0.12121212121212122,Liver diseases,"Transplantation is commonly used to treat a variety of diseases and conditions, including:
+
+1. **Kidney disease**: Kidney failure, kidney cancer, and polycystic kidney disease.
+2. **Liver disease**: Liver cancer, liver failure"
+Time_Erased,-0.6,2024,180.5287322998047,0.0,Homo sapiens,"I'm not familiar with a medication called ""aschantin"". Could you be thinking of a different medication, perhaps ""aspirin""?"
+Time_Erased,-0.6,2024,227.30223083496094,0.0,Adult,"In a biomedical context, the relationship between Cerebral dysfunction and patients or groups via PROCESS_OF would be related to the fact that Cerebral dysfunction is a condition that affects the brain, and it can be a result of various diseases or disorders that"
+Time_Erased,-0.6,2024,191.74903869628906,0.0,hepatitis B virus,"A nice biochemistry question!
+
+In the context of biochemistry, I believe you are referring to the protein Connective Tissue Growth Factor (CTGF), also known as CCN2.
+
+According to the UniProt database, CTGF is a protein"
+Time_Erased,-0.6,2024,43.57039260864258,0.0,Malignant Neoplasms,"Histone deacetylase (HDAC) is an enzyme that plays a key role in the regulation of gene expression by removing acetyl groups from histones, which are proteins that DNA wraps around in the nucleus of a cell. This process is"
+Time_Erased,-0.6,2024,215.09483337402344,0.0,Community,"In a biomedical context, I'm not aware of any relationship between Superficial abrasion and patients or groups via PROCESS_OF."
+Time_Erased,-0.6,2024,194.66604614257812,0.0,Vertebrates,"In a biomedical context, the relationship between Cells and medical entities via PART_OF is a type of relationship in the Gene Ontology (GO) that indicates that a cell is a part of a larger entity, such as an organ, tissue, or organism"
+Time_Erased,-0.6,2024,317.619873046875,0.0,Patients,"In a biomedical context, Mixed Phenotype Acute Leukemia (MPAL) is a type of leukemia that is characterized by the presence of cells from two different types of blood cells, typically myeloid and lymphoid, in the bone marrow"
+Time_Erased,-0.6,2024,120.17769622802734,0.0,acetylcholinesterase,"AHR, or the Aryl Hydrocarbon Receptor, is a ligand-activated transcription factor that plays a significant role in the regulation of various biological processes, including the metabolism of xenobiotics, the regulation of gene expression, and the immune"
+Time_Erased,-0.6,2024,187.05369567871094,0.0,"BIT, DRILL","In a biomedical context, Clinical Trials and medical entities are related via the USES (Units of Study) framework. In this framework, Clinical Trials are the ""uses"" of medical entities, such as drugs, devices, or treatments.
+
+In other words"
+Time_Erased,-0.6,2024,115.91561889648438,0.0,Decidua,"In a biomedical context, Stromal Cells are a type of cell that is part of the connective tissue in an organ or tissue. In this case, the relationship between Stromal Cells and tissues or organs is a ""PART_OF"" relationship.
+
+In"
+Time_Erased,-0.6,2024,129.38531494140625,0.0,Echocardiography,The cardiac chamber structure is located in the heart.
+Time_Erased,-0.6,2024,176.45152282714844,0.0,C2CD4B gene|C2CD4B,"I'm not sure about the specific anatomical location of the viral replication complex in proteins. Could you provide more context or details about what you're looking for? That way, I can try to help you better."
+Time_Erased,-0.6,2024,580.8970336914062,0.0,Responsive Disease,"I'm not familiar with a term called ""Regulon"" in the context of clinical findings. Could you please provide more information or context about what you're referring to? That way, I can try to help you better."
+Time_Erased,-0.6,2024,227.06346130371094,0.0,Fatty deposition,The answer is: Aorta
+Time_Erased,-0.6,2024,180.1234893798828,0.0,Antiviral Response,"Bronchial Epithelial Cells are the cells that line the airways of the lungs, specifically the bronchi. They are the first line of defense against inhaled pathogens and irritants.
+
+In terms of medical entities, Bronchial Epith"
+Time_Erased,-0.6,2024,185.78610229492188,0.0,Mus,"In a biomedical context, the relationship between Acute Pneumonia and species via PROCESS_OF would be that Acute Pneumonia is a disease that affects the lungs, and it is caused by a pathogen, such as a bacterium, virus"
+Time_Erased,-0.6,2024,179.6050262451172,0.0,Patients,"In a biomedical context, Hypernatremia is a condition where the sodium level in the blood is higher than normal. The PROCESS_OF relationship in this case would be related to the cause or effect of Hypernatremia.
+
+In this case, the"
+Time_Erased,-0.6,2024,528.8948364257812,0.0,Perceived quality of life,I'm not familiar with the CTIF gene or its associated medical entities. Can you please provide more context or information about what you're looking for? I'd be happy to try and help you find the answer!
+Time_Erased,-0.6,2024,169.55482482910156,0.125,hepatitis B virus,"I think you meant to ask ""Which virus is diagnosed by a test?"""
+Time_Erased,-0.6,2024,371.04296875,0.0,Woman,"In a biomedical context, the relationship between Symptom and patients or groups via PROCESS_OF is that the Symptom is the effect or outcome of the PROCESS_OF relationship.
+
+In other words, the PROCESS_OF relationship is the cause or the process that leads to"
+Time_Erased,-0.6,2024,127.24600219726562,0.0,Neuralgia,"Paclitaxel is a chemotherapy medication that can cause a number of side effects and conditions. Some of the medical entities that paclitaxel can cause or induce include:
+
+1. Neutropenia: a decrease in the number of"
+Time_Erased,-0.6,2024,77.15486907958984,0.0,SMAD7 gene|SMAD7,"Chimeric Antigen Receptor (CAR) T-cells are a type of immunotherapy used to treat certain types of cancer. They are a type of T-cell that has been engineered to recognize and attack cancer cells.
+
+The anatomical location of"
+Time_Erased,-0.6,2024,57.008670806884766,0.0,Disorder of the optic nerve,"Ethambutol is an antibiotic used to treat tuberculosis (TB) and other mycobacterial infections. It can cause some side effects, including:
+
+*   Gout
+*   Arthritis
+*   Joint pain
+*   Headache"
+Time_Erased,-0.6,2024,360.4514465332031,0.0,gaboxadol,"The Neocortex is not a chemical, it's a part of the brain! The Neocortex is a part of the brain that is responsible for processing sensory information, controlling movement, and facilitating thought and action. It's a structure, not"
+Time_Erased,-0.6,2024,262.73577880859375,0.0,starch,"I think there may be a bit of a problem here!
+
+Grains are not a type of chemical, and they're not an anatomical location either. Grains are actually a type of food, typically made from cereal crops like wheat, rice,"
+Time_Erased,-0.6,2024,68.48155212402344,0.0,Carcinoma,"Targeted therapy, also known as precision medicine, is a type of treatment that uses drugs or other therapies that specifically target the molecular mechanisms of a disease. It is commonly used to treat various types of cancer, but it can also be used to treat"
+Time_Erased,-0.6,2024,152.3376922607422,0.0,voltammetry,"In a biomedical context, Scanning Electron Microscopy (SEM) is a technique used to study the morphology of cells, tissues, and other biological samples. The relationship between Scanning Electron Microscopy and medical entities via METHOD_OF is that SEM is a"
+Time_Erased,-0.6,2024,296.61126708984375,0.042553191489361694,Patients,"I'm not sure about the specific groups or patients that Additional assessment is commonly used to treat. Could you provide more context or details about what you're referring to with ""Additional assessment""? That way, I can try to give you a more accurate answer"
+Time_Erased,-0.6,2024,237.87457275390625,0.0,Participant,"In a biomedical context, Insulin Resistance is related to patients or groups via the PROCESS_OF relationship in the following way:
+
+*   In the case of patients, Insulin Resistance is a condition that occurs when the body's cells do not respond properly to"
+Time_Erased,-0.6,2024,174.26402282714844,0.0,Adult,"In a biomedical context, Cardiomyopathies are a group of diseases that affect the heart muscle. The relationship between Cardiomyopathies and patients or groups via PROCESS_OF would be that Cardiomyopathies are a condition that affects the"
+Time_Erased,-0.6,2024,134.8322296142578,0.0,Cerebellum,"In a biomedical context, the relationship between Human Development and tissues or organs via PROCESS_OF is that Human Development is the process by which tissues and organs are formed and grow in the human body.
+
+In other words, Human Development is the process that results in"
+Time_Erased,-0.6,2024,415.3992919921875,0.0,hydrogen,"Nitrogen is a very important element in the body, and it's involved in many bodily functions. In the context of medicine, nitrogen is often associated with the nitrogen cycle, which is the process by which the body gets rid of waste products, particularly"
+Time_Erased,-0.6,2024,196.7737274169922,0.04545454545454545,"Tumor cells, malignant","I think you meant to ask ""Which cell type is the anatomical location of the three-dimensional structure?""
+
+In that case, I think you might be thinking of the three-dimensional structure of the cell, which is the cytoplasm. The cytopl"
+Time_Erased,-0.6,2024,105.85974884033203,0.0,Pulmonary Eosinophilia,The CPA3 gene is associated with the disease Tyrosinemia type 1.
+Time_Erased,-0.6,2024,141.82814025878906,0.0,1 Day,"A very specific question!
+
+In the context of ophthalmology, Subjective Refraction is a procedure used to determine the correct prescription for glasses or contact lenses for a patient. It's a way to measure how much nearsightedness, fars"
+Time_Erased,-0.6,2024,112.9385986328125,0.0,Child,"SARS-CoV-2 vaccination is not used to treat a medical entity, but rather to prevent the disease caused by the SARS-CoV-2 virus, which is the virus that causes COVID-19. The SARS-CoV-2"
+Time_Erased,-0.6,2024,222.2455596923828,0.0,Child,"In a biomedical context, the relationship between Wound Healing and patients or groups via PROCESS_OF is that Wound Healing is the process that occurs in patients or groups who have a wound. In other words, Wound Healing is the process that happens to"
+Time_Erased,-0.6,2024,48.368072509765625,0.15384615384615385,HIV,Antiretroviral therapy (ART) is commonly used to treat HIV (Human Immunodeficiency Virus).
+Time_Erased,-0.6,2024,200.06964111328125,0.0,Patients,"In a biomedical context, Acute hemorrhage is a condition where there is a sudden loss of blood from a blood vessel, often due to trauma, surgery, or other causes. In this context, the PROCESS_OF relationship would be related to the cause"
+Time_Erased,-0.6,2024,210.03843688964844,0.0625,Hospital acquired pneumonia,"Pathogenic organisms, which are organisms that cause disease, can cause a wide range of diseases and conditions. Here are some examples:
+
+**Bacteria:**
+
+* Tuberculosis (TB) - caused by Mycobacterium tuberculosis
+* Pneumonia"
+Time_Erased,-0.6,2024,163.81930541992188,0.0,Permeability,"Lipopolysaccharides (LPS) are a type of endotoxin found in the outer membrane of Gram-negative bacteria. They are known to disrupt various cellular and physiological processes in the body, particularly in the immune system. Some of"
+Time_Erased,-0.6,2024,208.98275756835938,0.0,Persons,"In a biomedical context, Advanced Prostate Carcinoma (APC) is a type of cancer that affects the prostate gland. The PROCESS_OF relationship in this context would be related to the progression or development of the disease.
+
+In other words, the"
+Time_Erased,-0.6,2024,139.5781707763672,0.047619047619047616,Patients,"In a biomedical context, the relationship between Ulcerative Colitis and patients or groups via PROCESS_OF is that Ulcerative Colitis is a disease that affects the colon, and the process of the disease is the inflammation and ulceration of the colon"
+Time_Erased,-0.6,2024,175.59060668945312,0.0,thromboplastin activity,"Antibodies, Anti-Idiotypic stimulate the production of Anti-Idiotypic Antibodies."
+Time_Erased,-0.6,2024,126.10902404785156,0.0,Positron-Emission Tomography,The anatomical location of the brain is the skull.
+Time_Erased,-0.6,2015,143.9443359375,0.0,Lanugo,"In a biomedical context, the relationship between glucose-regulated proteins and tissues or organs via PART_OF is that the glucose-regulated proteins are produced in those tissues or organs.
+
+In other words, the glucose-regulated proteins are the products of the cells in"
+Time_Erased,-0.6,2015,347.89678955078125,0.0,Households,"In a biomedical context, if we're talking about the PART_OF relationship, I would say that the Entire head is a part of the body, and it's a part of the body that is a whole, not a part of a group of patients"
+Time_Erased,-0.6,2015,171.00439453125,0.046511627906976744,HIV prevention,"In a biomedical context, the relationship between Prophylactic treatment and medical entities via METHOD_OF is that Prophylactic treatment is a method used to prevent a disease or condition from occurring in the first place.
+
+In other words, Prophylactic treatment is"
+Time_Erased,-0.6,2015,180.9656982421875,0.0,Triclosan,"Plants are living organisms, not chemicals. They are organisms that make their own food through photosynthesis, using sunlight, water, and carbon dioxide. They have roots, stems, leaves, and other parts that help them grow and survive.
+
+So,"
+Time_Erased,-0.6,2015,122.92611694335938,0.0,Child,"In the Systematized Nomenclature of Medicine (SNOMED RT) or the International Classification of Diseases (ICD), the relationship between Attention Deficit Hyperactivity Disorder (ADHD) and other medical entities via OCCURS_IN is as"
+Time_Erased,-0.6,2015,167.90867614746094,0.0,Vitiligo,"Therapeutic procedures can cause or induce various diseases or conditions, depending on the type of procedure and the individual's health status. Here are some examples:
+
+1. **Infection**: Any invasive procedure can introduce bacteria into the body, leading to infection"
+Time_Erased,-0.6,2015,98.32682800292969,0.0625,cytokine,"In a biomedical context, Interferon-alpha (IFN-α) is a type of cytokine that plays a key role in the immune system. ISA, in this case, refers to Interferon-Stimulated Antiviral Protein."
+Time_Erased,-0.6,2015,268.3050231933594,0.0,Transition Elements,"Phenylalanine is an amino acid that can interact with several medical entities, including:
+
+1. Tyrosine: Phenylalanine is a precursor to tyrosine, another amino acid that is important for the production of neurotransmitters such"
+Time_Erased,-0.6,2015,311.7940673828125,0.0,Deacetylation,"MST1, also known as Myosin Storage Disease Type 1, is a rare genetic disorder that primarily affects the muscles. It is a lysosomal storage disease, which means that it is caused by a deficiency of an enzyme that breaks down"
+Time_Erased,-0.6,2015,299.1816101074219,0.0,Mothers,"In a biomedical context, a Papule is a type of skin lesion, typically a small, raised bump or pimple, often caused by a virus, such as the human papillomavirus (HPV).
+
+If I understand your question correctly,"
+Time_Erased,-0.6,2015,177.34454345703125,0.0,Chemicals,"In a biomedical context, ISA (Is A) is a type of relationship in the Gene Ontology (GO) that is used to describe the relationship between a metal ion and a biological process or a molecular function. In this context, ISA means that"
+Time_Erased,-0.6,2015,100.51636505126953,0.0,Genome,"I think you meant to ask ""What is the anatomical location of Escherichia coli?""
+
+Escherichia coli, commonly known as E. coli, is a type of bacteria that is commonly found in the intestines of humans and animals"
+Time_Erased,-0.6,2015,185.3728485107422,0.0,Angiogenesis,Chemokines primarily affect the immune system.
+Time_Erased,-0.6,2015,92.55684661865234,0.0,Enoxaparin,"In a biomedical context, Oral anticoagulants are a class of medications that prevent the formation of blood clots. In the context of COMPARED_WITH, I'm assuming you're referring to the comparison of Oral anticoagulants with"
+Time_Erased,-0.6,2015,234.8988800048828,0.0,Antibiotic Resistance,"Biological adaptation to stress primarily affects the body's endocrine system, specifically the hypothalamic-pituitary-adrenal (HPA) axis. The HPA axis is a key player in the body's response to stress, and it's"
+Time_Erased,-0.6,2015,128.3309326171875,0.04545454545454545,Chagas Disease,"Therapeutic vaccines are used to treat diseases or conditions, not to prevent them. They are used to treat diseases that are already present in the body. Some examples of diseases or conditions that therapeutic vaccines are used to treat include:
+
+1. Cancer:"
+Time_Erased,-0.6,2015,128.3919677734375,0.0,Experimental Autoimmune Encephalomyelitis,"Icariin is a compound found in the Chinese herb Epimedium, also known as horny goat weed. It is primarily used in traditional Chinese medicine to treat conditions related to the reproductive system, particularly in men."
+Time_Erased,-0.6,2015,83.5649642944336,0.0,"Receptors, Purinergic P1",The anatomical location of the endothelium is the lining of the blood vessels.
+Time_Erased,-0.6,2015,91.85433959960938,0.0,Patients,"Hydrocortisone is a corticosteroid medication that is commonly used to treat a variety of medical conditions. Some of the most common medical entities that hydrocortisone is used to treat include:
+
+1. Allergic reactions:"
+Time_Erased,-0.6,2015,161.86573791503906,0.0,DNA Damage,"APOBEC3B is a cytidine deaminase enzyme that is involved in the innate immune response to retroviruses, particularly HIV. It can cause or induce the following medical entities:
+
+1. G-to-A mutations: APOB"
+Time_Erased,-0.6,2015,105.03324127197266,0.0,Chloroquine,"In a biomedical context, when you're talking about Assay and chemicals via MEASURES, I believe you're referring to the relationship between the Assay and the chemical being measured in a laboratory setting.
+
+In this context, MEASURES is likely"
+Time_Erased,-0.6,2015,152.07313537597656,0.0,Apoptosis,"Paraquat is a herbicide that is primarily toxic to the liver and kidneys, but it also affects the lungs, brain, and other organs. In terms of cell types, Paraquat primarily affects the following:
+
+1. Hepatocytes (liver"
+Time_Erased,-0.6,2015,103.05845642089844,0.0,Mucormycosis,"I'm not sure what you're referring to with ""Therapeutic procedure"". Could you be thinking of a specific type of therapy or treatment?"
+Time_Erased,-0.6,2015,115.76211547851562,0.0,Multiple Myeloma,"Prevention is a broad term that can refer to various treatments or interventions that prevent the onset of a disease or condition. Here are some examples of diseases or conditions that prevention is commonly used to treat:
+
+1. **Infectious diseases**: Vaccines"
+Time_Erased,-0.6,2015,136.83203125,0.0,Family alcedinidae,I'm not familiar with a connection between Kingfisher and medical entities via ISA in a biomedical context. Could you provide more information or context about what you're referring to?
+Time_Erased,-0.6,2015,163.51055908203125,0.0,Mus,"In a biomedical context, the relationship between Crohn's disease and species via PROCESS_OF would be that Crohn's disease is a disease that affects the intestines of humans."
+Time_Erased,-0.6,2015,92.77658081054688,0.0,SLC2A1 gene|SLC2A1,The anatomical location of skeletal muscle structure is the muscle belly.
+Time_Erased,-0.6,2015,131.4355010986328,0.0,Dimethyl Sulfoxide,"Indoles are a class of organic compounds that are commonly found in plants, particularly in the plant kingdom. They are known to co-exist with other chemicals such as:
+
+1. Aldehydes: These are organic compounds that contain a carbonyl"
+Time_Erased,-0.6,2015,242.85337829589844,0.0,Inflammatory Response,"Gamma-terpinene is a monoterpene, a type of terpene found in the essential oils of various plants. It's a bit of a tricky one, but I think I can help you out.
+
+Gamma-terpinene is"
+Time_Erased,-0.6,2015,216.77243041992188,0.04545454545454545,Patients,"In a biomedical context, the relationship between Symptom Remission and patients or groups via PROCESS_OF is that Symptom Remission is the process that occurs to the patients or groups.
+
+In other words, when a patient or group is in a state of"
+Time_Erased,-0.6,2015,160.39141845703125,0.0,Patients,"In a biomedical context, Hemoglobinopathies are a group of genetic disorders that affect the production of hemoglobin, a protein in red blood cells that carries oxygen to the body's tissues.
+
+The PROCESS_OF relationship in this case would be ""causes"
+Time_Erased,-0.6,2015,61.06081008911133,0.0,"Tuberculosis, Multidrug-Resistant","I'm not sure what you're referring to with ""Therapeutic procedure"". Could you be thinking of a specific type of therapy or treatment?"
+Time_Erased,-0.6,2015,252.7800750732422,0.0,FOOT SYMPTOM,"Intervention regimes are commonly used to treat a variety of medical conditions, particularly those that are chronic, debilitating, or life-threatening. Some examples of medical entities that are commonly treated with intervention regimes include:
+
+1. HIV/AIDS: Antiretroviral"
+Time_Erased,-0.6,2015,166.701171875,0.05,Dietary Proteins,"I think you meant to ask ""Which protein is the anatomical location of Infant, Premature?""
+
+In that case, I believe you are referring to the protein ""Surfactant"". In the context of a premature infant, the anatomical location of"
+Time_Erased,-0.6,2015,298.9801025390625,0.0,Conflict (Psychology),"Violence can affect a wide range of medical entities, including:
+
+1. Head and neck: Head injuries, concussions, skull fractures, and neck injuries.
+2. Musculoskeletal: Fractures, sprains, strains, and other injuries"
+Time_Erased,-0.6,2015,93.00350189208984,0.0,Pregnancy loss,"A nice question!
+
+In the context of hematology, Thrombophilia is a condition characterized by an increased tendency to form blood clots (thrombi). In the 1990s, a group of researchers proposed a model to explain how"
+Time_Erased,-0.6,2015,203.70062255859375,0.04444444444444444,tumor growth,"The TP53 gene, also known as the tumor suppressor gene, is a gene that codes for the p53 protein. This protein is a tumor suppressor that helps to prevent cancer by stopping cells that are damaged or have the potential to become cancer"
+Time_Erased,-0.6,2015,198.72427368164062,0.05128205128205127,Patients,"In a biomedical context, the relationship between Submandibular and patients or groups via PART_OF would be that the Submandibular gland is a part of the body that is located under the mandible (lower jawbone) in humans. So"
+Time_Erased,-0.6,2015,375.5773620605469,0.0,Child,"I'm not sure what you're referring to with ""Diagnosis"". Could you be referring to a medical condition or a medical test?"
+Time_Erased,-0.6,2015,194.5811309814453,0.05128205128205129,Medical pins,"In a biomedical context, the Implantation procedure is related to medical entities via the USES (User, System, Environment, and Service) model. In this context, the Implantation procedure is a medical procedure where a device or a material"
+Time_Erased,-0.6,2015,109.4372787475586,0.0,Neutrophil Activation,"Agonists are substances that bind to receptors in the body and cause a response. In physiology, agonists can cause or induce a variety of functions, depending on the type of receptor they bind to. Here are some examples:
+
+1. **Mus"
+Time_Erased,-0.6,2015,169.8189239501953,0.0,Carnitine,"Blood is not a protein, it's a liquid tissue that circulates through the body's cardiovascular system. It's a mixture of cells, plasma, and other substances that help to transport oxygen, nutrients, and waste products to and from the cells of"
+Time_Erased,-0.6,2015,106.30590057373047,0.08333333333333333,Primary carcinoma of the liver cells,"Carcinogenesis, the process of cancer formation, can be associated with various diseases or conditions that can either increase the risk of cancer or are a result of cancer. Here are some of the diseases or conditions that commonly co-exist with carcinogenesis"
+Time_Erased,-0.6,2015,204.1841278076172,0.0,GUCY2C,"In a biomedical context, the relationship between Mutation and Genes via PROCESS_OF is that a Mutation is a process that acts on a Gene.
+
+In other words, a Mutation is an event that changes the DNA sequence of a Gene. So, the process"
+Time_Erased,-0.6,2015,102.40898895263672,0.0,Yolk Sac Tumor,The anatomical location of the ovary is in the female reproductive system.
+Time_Erased,-0.6,2015,93.55374145507812,0.05128205128205128,apolipoprotein A-IV,"In a biomedical context, the relationship between the Intestines (Small) and proteins via PRODUCES is that the Small Intestine produces proteins.
+
+In other words, the Small Intestine is the part of the digestive system where proteins"
+Time_Erased,-0.6,2015,73.67184448242188,0.0,Cystic Neoplasm,"The pancreas is an organ located in the abdominal cavity, and it's involved in several diseases and conditions. Here are some of them:
+
+1. **Diabetes mellitus**: The pancreas produces insulin, which is a hormone that regulates blood sugar"
+Time_Erased,-0.6,2015,116.5759506225586,0.09999999999999999,Fetal Diseases,Glucose-6-phosphate isomerase deficiency is a genetic disorder that can cause a condition called tarui's disease.
+Time_Erased,-0.6,2015,167.1035614013672,0.0,Scaffold protein,I'm not familiar with the specific interactions of AFAP1L2. Can you provide more context or information about what you're looking for?
+Time_Erased,-0.6,2015,166.6584930419922,0.05263157894736842,physiological aspects,"Ribosomal proteins primarily affect the following physiologic functions:
+
+1. Protein Synthesis: Ribosomal proteins are a key component of ribosomes, which are the cellular machinery responsible for translating messenger RNA (mRNA) into proteins. They help to read"
+Time_Erased,-0.6,2015,236.6742706298828,0.0425531914893617,Population Group,"In a biomedical context, Phonological Awareness is a cognitive skill that is related to the ability to identify and manipulate the sounds of language. In the context of patients or groups, this would be related to the ability to understand and process language, which is"
+Time_Erased,-0.6,2015,81.32300567626953,0.0,Sickle Cell Anemia,"Pain management is commonly used to treat a variety of diseases and conditions that cause pain. Some of the most common ones include:
+
+1. **Arthritis**: Osteoarthritis, rheumatoid arthritis, and other types of arthritis that cause"
+Time_Erased,-0.6,2015,87.37791442871094,0.0,Female genitalia,"Prostaglandin-Endoperoxide Synthase, also known as COX (Cyclooxygenase) enzyme, primarily affects the production of prostaglandins in the body. Prostaglandins are a group of lipid compounds"
+Time_Erased,-0.6,2015,84.6253890991211,0.0,nervous system disorder,"In a biomedical context, ISA (Ischemia) is a condition where there is a reduction or cessation of blood flow to a body part, usually a limb or an organ. In the context of Multiple Sclerosis (MS), ISA is not a"
+Time_Erased,-0.6,2015,170.53244018554688,0.0,Apolipoprotein A-II|APOA1|LPA,I'm not familiar with the LAMR1 gene or its function. Can you please provide more context or information about what you're looking for?
+Time_Erased,-0.6,2015,225.6053009033203,0.0,Sheep,"I'm not sure about the specific species that the Skeletal fixation procedure is commonly used to treat. Could you provide more context or details about the procedure? That way, I can try to help you better."
+Time_Erased,-0.6,2015,202.26638793945312,0.04545454545454545,Patients,"In a biomedical context, the relationship between Epilepsy and patients or groups via PROCESS_OF would be that Epilepsy is a condition that affects the brain, and it is the process of the disease that affects the patients or groups. In other words"
+Time_Erased,-0.6,2015,154.5087432861328,0.0,Open Reading Frames,"In a biomedical context, Plasmids and Genes are related via the relationship ""NEG_COEXISTS_WITH"" in the sense that a Plasmid can be said to not coexist with a Gene in the sense that a Plasmid is"
+Time_Erased,-0.6,2015,126.3446044921875,0.0,Liver Failure,"Granulocyte Colony-Stimulating Factor (G-CSF) is most strongly associated with the pathologic function of stimulating the production of granulocytes, which are a type of white blood cell. Specifically, G-CSF is involved in the production"
+Time_Erased,-0.6,2015,137.1833038330078,0.0,Elderly,"In a biomedical context, the relationship between Alzheimer's Disease and other medical entities via PROCESS_OF would be related to the disease process of Alzheimer's Disease.
+
+In this context, PROCESS_OF would indicate that the disease process of Alzheimer's Disease is the process that"
+Time_Erased,-0.6,2015,291.4681091308594,0.0,Stress,"I think you meant to ask ""Which clinical finding is the anatomical location of the entire tooth?""
+
+The answer is the Pulp. The pulp is the soft tissue inside the tooth, located in the center of the tooth, and it contains the nerves"
+Time_Erased,-0.6,2015,91.7370376586914,0.0,Human,"In a biomedical context, Hypogonadotropic hypogonadism is a condition where the gonads (ovaries in females, testes in males) do not produce enough sex hormones (estrogen and testosterone) because the pituitary"
+Time_Erased,-0.6,2015,131.0725555419922,0.09302325581395347,I Kappa B-Alpha,"NF-kappa B (NF-κB) is a family of transcription factors that play a key role in the regulation of genes involved in inflammation, immune response, and cell survival. NF-κB interacts with many proteins in the cell, including"
+Time_Erased,-0.6,2015,154.1042938232422,0.0,Water,"In a biomedical context, Bone Wires and pharmacologic substances are related via the use of Bone Wires as a delivery device for pharmacologic substances, particularly in the field of orthopedic surgery.
+
+Bone Wires are small, thin wires made of"
+Time_Erased,-0.6,2015,190.90570068359375,0.0,Assay,"In a biomedical context, the relationship between Polymerase Chain Reaction (PCR) and medical entities is via the method of ""amplification"" or ""detection"" of genetic material.
+
+In other words, PCR is a laboratory technique used to amplify a"
+Time_Erased,-0.6,2015,225.9425811767578,0.0,Linoleic Acid,Plasma is the liquid part of the blood.
+Time_Erased,-0.6,2015,145.27072143554688,0.0,Swelling,"The clinical finding is the ""Dimpling"" of the skin."
+Time_Erased,-0.6,2015,210.2196044921875,0.0,Disease,"I'm not sure what you're referring to with ""Therapeutic procedure"". Could you please provide more context or clarify what you mean by that term?"
+Time_Erased,-0.6,2015,73.15546417236328,0.0,Carcinoma,"The pancreas is an organ located in the abdominal cavity, and it's involved in several diseases and conditions. Here are some of them:
+
+1. **Diabetes mellitus**: The pancreas produces insulin, which is a hormone that regulates blood sugar"
+Time_Erased,-0.6,2015,237.41610717773438,0.0,Growth,Lapatinib is a tyrosine kinase inhibitor that was primarily used in the treatment of certain types of cancer. It was used to treat HER2-positive breast cancer and also gastric cancer.
+Time_Erased,-0.6,2015,141.5084228515625,0.0,Dromedary,"In a biomedical context, Rift Valley Fever is a disease caused by a virus, specifically a flavivirus. The relationship between Rift Valley Fever and species via PROCESS_OF would be that the virus is transmitted to humans and animals through the bite of an infected mosquito"
+Time_Erased,-0.6,2015,238.22964477539062,0.0,Labium,"In a biomedical context, a Groove is a type of anatomical structure that is a channel or a depression in a bone or a surface of an organ. In this case, the relationship between a Groove and a tissue or organ is that the"
+Time_Erased,-0.6,2015,195.2111358642578,0.0,Apoptosis,"Mechanical stimulation primarily affects cells that are sensitive to mechanical forces, such as:
+
+1. Muscle cells (muscle fibers): Mechanical stimulation can cause muscle contraction and relaxation, which is essential for movement and maintaining posture.
+2. Bone cells (osteocytes"
+Time_Erased,-0.6,2015,81.85334777832031,0.0,Aldosterone,"Cyclic GMP-Dependent Protein Kinases (PKG) inhibit several medical entities, including:
+
+1. Phosphodiesterase: PKG inhibits phosphodiesterase, an enzyme that breaks down cGMP, thereby increasing the levels"
+Time_Erased,-0.6,2015,260.1400451660156,0.0,Adolescent,"In a biomedical context, the relationship between Learning and patients or groups via PROCESS_OF is that the Learning is the process of acquiring knowledge or skills by the patients or groups. In other words, the patients or groups are the subjects of the Learning process."
+Time_Erased,-0.6,2015,79.2289047241211,0.13333333333333333,Cyclic AMP-Dependent Protein Kinases,"I'm not sure what you mean by ""CAMP"" in this context. Could you be referring to cyclic AMP (cAMP), a second messenger in cellular signaling? If that's the case, cAMP is often associated with proteins that are part"
+Time_Erased,-0.6,2015,111.88890838623047,0.0,Levosimendan,"Endothelial cells are a type of cell that lines the interior surface of blood vessels, including arteries, veins, and capillaries. They are a type of epithelial cell that forms a thin layer, known as the endothelium, which"
+Time_Erased,-0.6,2015,81.2240982055664,0.0,Hepatic Encephalopathy,"Tranilast is a medication that was used in the past as an anti-allergic agent, particularly for treating asthma and other allergic conditions. However, it was withdrawn from the market in many countries due to its side effects."
+Time_Erased,-0.6,2015,37.69915771484375,0.0,"ATPase, Aminophospholipid Transporter-Like, Class I, Type 8A, Member 2|ATP8A2","The Inferior Colliculus is a structure in the midbrain, specifically in the auditory system. It is located in the midbrain, in the tectum of the midbrain, and is part of the auditory pathway."
+Time_Erased,-0.6,2015,197.55233764648438,0.0,Laparoscopy,"I think you meant to ask ""What is the anatomical location of Hospitals?""
+
+Hospitals are typically located in the... **Body of the Community**!
+
+More specifically, hospitals are usually located in the **External Environment**, which is the outside world"
+Time_Erased,-0.6,2015,69.67802429199219,0.0,Primary immune deficiency disorder,I'm not familiar with 3-bromoacetoxyandrostan-17-one. Could you please provide more context or information about this compound?
+Time_Erased,-0.6,2015,104.73091888427734,0.0,Thrombin,I'm not sure about the specific anatomical location of Platelet-rich plasma. Could you provide more context or details about what you're looking for?
+Time_Erased,-0.6,2015,104.60350036621094,0.05128205128205127,Disease,"Operative surgical procedures are commonly used to treat a wide range of diseases and conditions, including:
+
+1. Cancer: Surgery is often used to remove tumors, cancerous tissues, or affected organs.
+2. Trauma: Surgery is used to repair or"
+Time_Erased,-0.6,2015,167.77862548828125,0.0,Muscle,"In a biomedical context, the relationship between Tissue fiber and Tissues or Organs via PART_OF is that Tissue fiber is a component of Tissues or Organs.
+
+In other words, Tissue fiber is a type of fiber that is found"
+Time_Erased,-0.6,2015,146.9099884033203,0.0,Woman,"In a biomedical context, Thromboembolism is a condition where a blood clot (thrombus) forms in a blood vessel and then breaks loose, traveling through the bloodstream and gets stuck in another part of the body, blocking the flow"
+Time_Erased,-0.6,2015,218.6780242919922,0.0,Primates,"In a biomedical context, the relationship between host and species via PART_OF is that the host is a part of the species.
+
+In other words, the host is a component or a part of the species, in this case, the species being the organism"
+Time_Erased,-0.6,2015,181.26564025878906,0.0,proteoliposomes,"Norfloxacin is a fluoroquinolone antibiotic that can interact with several medical entities. Here are some of the significant interactions:
+
+1. Theophylline: Norfloxacin can increase the levels of theophylline in the"
+Time_Erased,-0.6,2015,67.03778839111328,0.0,Dopamine Receptor,"The Nucleus Accumbens is a part of the basal ganglia, which is a group of structures in the brain that are involved in movement and reward processing. Specifically, the Nucleus Accumbens is located in the basal forebrain"
+Time_Erased,-0.6,2015,127.19110870361328,0.0,Apoptosis,"I'm not familiar with the term ""AUGMENTS"" in the context of biomedical science. Could you please provide more information or context about what you're referring to?"
+Time_Erased,-0.6,2015,142.41468811035156,0.0,Chlorophyll,"I think there may be a bit of a problem here!
+
+I'm not sure what you mean by ""anatomical location of Seedling"". Are you asking about the part of a plant that is a seedling? If so, a seedling"
+Time_Erased,-0.6,2015,98.05269622802734,0.0,Recurrent Carcinoma,"Trabectedin is a chemotherapy medication used to treat certain types of cancer. It is commonly used to treat:
+
+1. Ovarian cancer: Specifically, it is used to treat ovarian cancer that has come back after treatment with other chemotherapy.
+2"
+Time_Erased,-0.6,2015,296.4745178222656,0.0,college student,"In a biomedical context, the relationship between alcohol consumption and patients or groups via PROCESS_OF would be related to the effects of alcohol on the body or behavior of the patients or groups.
+
+In this context, PROCESS_OF would be the verb or action that describes"
+Time_Erased,-0.6,2015,152.37771606445312,0.0,Myelofibrosis,"I'm not familiar with an ""Agent"" being a treatment for a disease or condition. Could you be referring to a specific medication or treatment that starts with the letter ""A""?"
+Time_Erased,-0.6,2015,136.10198974609375,0.0,"Infant, Newborn","In a biomedical context, the relationship between hemolysis and patients or groups via PROCESS_OF is that hemolysis is a process that occurs in the body, and it is a process that affects patients or groups.
+
+In other words, hemolysis"
+Time_Erased,-0.6,2015,118.11800384521484,0.0,Malignant Neoplasms,"Cell communication is a fundamental process in the body, and when it's disrupted, it can lead to various diseases and conditions. Here are some common ones:
+
+1. **Cancer**: Cancer cells often have abnormal cell communication, leading to uncontrolled growth"
+Time_Erased,-0.6,2015,191.01414489746094,0.10256410256410256,Protein p53|TP53,"MDM4, also known as MDM2 inhibitor, is a protein that interacts with the p53 protein, which is a tumor suppressor protein. MDM4 is a negative regulator of p53, meaning it helps to inhibit the activity of"
+Time_Erased,-0.6,2015,251.45249938964844,0.0,Mus,"In a biomedical context, I'm not aware of any direct relationship between Manic behavior and species via PROCESS_OF. Manic behavior is a type of behavior that is typically associated with a mental health condition, such as mania, which is a symptom"
+Time_Erased,-0.6,2015,204.95767211914062,0.04081632653061224,Regulatory sequence,"In a biomedical context, the relationship between DNA Sequence and medical entities via PART_OF is a way of describing the relationship between a DNA sequence and the biological entity that it is a part of.
+
+In this context, the PART_OF relationship is a type of"
+Time_Erased,-0.6,2015,256.9235534667969,0.0,Young adult,"In a biomedical context, if I understand correctly, you're asking about the relationship between Hypertensive (high blood pressure) and patients or groups in the context of a process.
+
+In this case, the relationship would be that Hypertensive is a"
+Time_Erased,-0.6,2015,127.54105377197266,0.0,Antioxidants,"A nice question!
+
+In a biomedical context, acetovanillone is a compound that is known to be an inhibitor of the enzyme catechol O-methyltransferase (COMT). COMT is an enzyme that breaks down catecholamines"

@@ -1,0 +1,5 @@
+Method,Valid_Samples,Model_MAE,Baseline_MAE,Model_MSE,Baseline_MSE,Model_RMSE,Baseline_RMSE
+Zero-Shot,586,3.0597,2.8003,16.2747,10.8242,4.0342,3.29
+Few-Shot,965,3.2788,2.7358,17.3534,10.3793,4.1657,3.2217
+Chain-of-Thought,399,3.4236,2.9323,18.9975,11.584,4.3586,3.4035
+Linear Probe,200,2.9,2.74,13.71,10.4,3.7027,3.2249
