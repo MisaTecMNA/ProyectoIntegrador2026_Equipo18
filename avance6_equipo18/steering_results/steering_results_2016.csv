@@ -1,0 +1,58 @@
+Question,Year,Ground_Truth,Steered_Response
+"To which cell types is HIST1H1C typically administered?","2016","fibroblast cell line","1. Neurons"
+"To which cell types is HLA-C typically administered?","2016","T-Lymphocyte","1. T cells"
+"To which cell types is APC typically administered?","2016","B-Lymphocytes","I'm not sure what you're referring to, could you provide more context or clarify what APC is?"
+"To which cell types is AIRE typically administered?","2016","Cells","Thymic epithelial cells."
+"To which cell types is KRT32|MYO1G typically administered?","2016","Leptocyte","1. Epithelial cells"
+"To which cell types is MECP2 typically administered?","2016","Neurons","2A and 3A neurons."
+"To which cell types is TRIM37 typically administered?","2016","Cells","I'm not aware of any information about TRIM37 being administered to specific cell types."
+"To which cell types is MYOD1 typically administered?","2016","Myoblasts","1. Satellite cells"
+"To which cell types is OA1 typically administered?","2016","melanocyte","I'm not aware of any information about OA1 being administered to any cell types."
+"To which cell types is TPPP3 typically administered?","2016","Hepatocyte","1990s research on TPPP3 (Tubulin Polymerization-Promoting Protein 3) indicated that it is typically administered to neurons."
+"To which cell types is RAP1B typically administered?","2016","Human Cell Line","1990s research indicates that RAP1B is typically administered to smooth muscle cells."
+"To which cell types is EVA1C typically administered?","2016","Erythroid Progenitor Cells","1. EVA1C is typically administered to patients with acute myeloid leukemia."
+"To which cell types is SUV39H1 typically administered?","2016","Cells","1. Lymphocytes"
+"To which cell types is TRPA1 typically administered?","2016","Cells","1. Nociceptors"
+"To which species is 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine typically administered?","2016","Mus","1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) is typically administered to monkeys."
+"To which species is Acetic Acid typically administered?","2016","Rattus norvegicus","1. Humans"
+"To which patients or groups is Acetylcysteine typically administered?","2016","Patients","1.  Paracetamol (acetaminophen) overdose: Acetylcysteine is used as an antidote to treat acetaminophen (paracetamol) overdose. 
+2.  Mucolytic agent: Acetylcysteine is used as a mucolytic agent to break down mucus in conditions such as chronic bronchitis, cystic fibrosis, and other respiratory diseases. 
+3.  Gastrointestinal disorders: Acetylcysteine is used to treat certain gastrointestinal disorders, such as peptic ulcers and gastroesophageal reflux disease (GER"
+"To which patients or groups is Administration, Oral typically administered?","2016","Child","1. Children 
+2. Elderly"
+"To which patients or groups is Administration, Oral typically administered?","2016","Patients","1. Children 
+2. Elderly"
+"To which patients or groups is Adrenal Cortex Hormones typically administered?","2016","Patients","1. Cushing's syndrome: To treat the condition, which is caused by an overproduction of cortisol. 
+2. Addison's disease: To replace the deficient cortisol and aldosterone hormones. 
+3. Congenital adrenal hyperplasia: To replace the deficient hormones. 
+4. Congestive heart failure: To increase blood volume and cardiac output. 
+5. Asthma: To reduce inflammation and swelling in the airways. 
+6. Rheumatoid arthritis: To reduce inflammation and swelling. 
+7. Osteoporosis: To increase bone density. 
+8. Menstrual disorders: To regulate menstrual"
+"To which species is Agmatine typically administered?","2016","Mus","4-Hydroxybutyrate (GHB) is a metabolite of Agmatine."
+"To which species is Albumins|ALB typically administered?","2016","Mice, Inbred mdx","1. Human"
+"To which patients or groups is Albuterol typically administered?","2016","Patients","1. Asthmatics: Albuterol is used to treat asthma attacks and to prevent bronchospasm."
+"To which species is Ethanol typically administered?","2016","Mice, Inbred C57BL","Humans."
+"To which species is Ethanol typically administered?","2016","Mus","1. Humans"
+"To which patients or groups is Ethanol typically administered?","2016","student","1. Poisoning treatment: Ethanol is used to treat poisoning from other substances, such as methanol or ethylene glycol."
+"To which patients or groups is Ethanol typically administered?","2016","Youth","1. Poisoning treatment: Ethanol is used to treat poisoning from other substances, such as methanol or ethylene glycol. 
+2. Sedation: Ethanol is used as a sedative and anxiolytic in some medical settings. 
+3. Withdrawal: Ethanol is used to treat alcohol withdrawal symptoms in individuals who are undergoing detoxification."
+"To which patients or groups is Ethanol typically administered?","2016","network","1. Poisoning treatment: Ethanol is used to treat poisoning from other substances, such as methanol or ethylene glycol. 
+2. Sedation: Ethanol is used as a sedative and anxiolytic in some medical settings. 
+3. Withdrawal: Ethanol is used to treat alcohol withdrawal symptoms in individuals who are undergoing detoxification."
+"To which cell types is Methanol typically administered?","2016","Cells","1. Hepatocytes"
+"To which species is Alloxan typically administered?","2016","Mice, Inbred C57BL","Alloxan is typically administered to rats."
+"To which species is Alloxan typically administered?","2016","Rattus norvegicus","Alloxan is typically administered to rats."
+"To which species is Alloxan typically administered?","2016","Rats, Wistar","Alloxan is typically administered to rats."
+"To which patients or groups is Interferon-alpha typically administered?","2016","Patients","2 types of patients typically receive Interferon-alpha: 
+
+1. Patients with chronic hepatitis C, to treat the disease.
+2. Patients with hairy cell leukemia, to treat the disease."
+"To which patients or groups is Alprostadil typically administered?","2016","Patients","erektil dysfunction"
+"To which species is Alprostadil typically administered?","2016","Rattus norvegicus","1. Human"
+"To which patients or groups is ambulatory care services typically administered?","2016","Adult","1. Outpatients 
+2. Patients who are not bedridden"
+"To which cell types is Amino Acids typically administered?","2016","Endothelial Cells","1. Nerve cells"
+"To which patients or groups is Aminoglycosides typically administered?","2016","Human","1. Patients with severe infections caused by gram-negative bacteria, such as Pseudomonas aeruginosa, E. coli, and Klebsiella pneumoniae."

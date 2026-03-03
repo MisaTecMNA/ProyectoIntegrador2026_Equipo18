@@ -1,0 +1,134 @@
+Question,Year,Ground_Truth,Steered_Response
+"To which cell types is CRHR1 typically administered?","2017","Cells","aaaaI cannot provide information on the administration of CRHR1. Is there anything else I can help you with?"
+"To which patients or groups is GCH1 typically administered?","2017","Patients","aaaaI cannot provide information on the administration of GCH1. Is there anything else I can help you with?"
+"To which cell types is IGKV1-16|FAM49B typically administered?","2017","Cells","aaaa"
+"To which cell types is PDX1 typically administered?","2017","Cells",":// I can't verify the cell types to which PDX1 is administered."
+"To which cell types is NEUROG3 typically administered?","2017","Cells","aaaaI cannot provide information on the administration of NEUROG3. Is there anything else I can help you with?"
+"To which cell types is DHH typically administered?","2017","LH Cell",":// I can't verify the cell types to which DHH is administered."
+"To which cell types is ROS1 typically administered?","2017","Cells","aaaaI cannot provide information on the administration of ROS1. Is there anything else I can help you with?"
+"To which species is 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine typically administered?","2017","Macaca fascicularis","aaaa"
+"To which patients or groups is 6-Aminocaproic Acid typically administered?","2017","Patients","aa"
+"To which patients or groups is Acetaminophen typically administered?","2017","Patients","OO
+
+Acetaminophen is typically administered to patients with pain, fever, and headaches. It is also used to reduce fever in children and to relieve pain in adults."
+"To which species is Administration, Oral typically administered?","2017","Rattus norvegicus","aaaa
+
+Administration, Oral is typically administered to humans."
+"To which species is Administration, Oral typically administered?","2017","Beef cattle","aaaa
+
+Administration, Oral is typically administered to humans."
+"To which patients or groups is Adrenal Cortex Hormones typically administered?","2017","Infant, Premature","aaaa
+
+Adrenal Cortex Hormones, also known as corticosteroids, are typically administered to patients with:
+
+* Addison's disease
+* Cushing's syndrome
+* Congenital adrenal hyperplasia
+* Asthma
+* Allergic reactions
+* Rheumatoid arthritis
+* Lupus
+* Skin conditions such as eczema and psoriasis
+* Inflammatory conditions such as ulcerative colitis and Crohn's disease."
+"To which patients or groups is Adrenal Cortex Hormones typically administered?","2017","Patients","OO
+
+Adrenal Cortex Hormones, also known as corticosteroids, are typically administered to patients with:
+
+* Addison's disease
+* Cushing's syndrome
+* Congenital adrenal hyperplasia
+* Asthma
+* Allergic reactions
+* Rheumatoid arthritis
+* Lupus
+* Skin conditions such as eczema and psoriasis
+* Inflammatory conditions such as ulcerative colitis and Crohn's disease."
+"To which patients or groups is Adrenal Cortex Hormones typically administered?","2017","Individual","OO
+
+Adrenal Cortex Hormones, also known as corticosteroids, are typically administered to patients with:
+
+* Addison's disease
+* Cushing's syndrome
+* Congenital adrenal hyperplasia
+* Asthma
+* Allergic reactions
+* Rheumatoid arthritis
+* Lupus
+* Skin conditions such as eczema and psoriasis
+* Inflammatory conditions such as ulcerative colitis and Crohn's disease."
+"To which species is Adrenalectomy typically administered?","2017","Rattus norvegicus","aa"
+"To which patients or groups is Adrenergic beta-Antagonists typically administered?","2017","Adult","aaaa
+
+Adrenergic beta-antagonists, also known as beta blockers, are typically administered to patients with:
+
+* Hypertension (high blood pressure)
+* Angina pectoris (chest pain due to coronary artery disease)
+* Myocardial infarction (heart attack)
+* Tachyarrhythmias (abnormal heart rhythms)
+* Migraine headaches
+* Glaucoma (to reduce intraocular pressure)
+* Anxiety and performance anxiety
+* Hyperthyroidism (to control symptoms)
+* Cardiac arrhythmias (such as supraventricular tachycardia)
+* Hypert"
+"To which patients or groups is Adrenergic beta-Antagonists typically administered?","2017","Elderly","aaaa
+
+Adrenergic beta-antagonists, also known as beta blockers, are typically administered to patients with:
+
+* Hypertension (high blood pressure)
+* Angina pectoris (chest pain due to coronary artery disease)
+* Myocardial infarction (heart attack)
+* Tachyarrhythmias (abnormal heart rhythms)
+* Migraine prophylaxis (prevention)
+* Glaucoma (to reduce intraocular pressure)
+* Anxiety and performance anxiety
+* Hyperthyroidism (to control symptoms)
+* Hypertrophic cardiomyopathy (a condition where the heart muscle becomes thickened"
+"To which patients or groups is Aftercare typically administered?","2017","Woman","aaaa
+
+Aftercare is typically administered to patients who have undergone surgery, particularly those who have undergone general anesthesia or have been under sedation."
+"To which species is Ethanol typically administered?","2017","Mus","aaaa
+
+Ethanol is typically administered to humans."
+"To which patients or groups is Ethanol typically administered?","2017","friend","aaaa
+
+Ethanol is typically administered to patients with methanol or ethylene glycol poisoning."
+"To which patients or groups is Ethanol typically administered?","2017","Girls","aaaa
+
+Ethanol is typically administered to patients with methanol or ethylene glycol poisoning."
+"To which patients or groups is Interferon-alpha typically administered?","2017","Patients","aaaa
+
+Interferon-alpha is typically administered to patients with:
+
+* Hepatitis B and C
+* Multiple sclerosis
+* Chronic myeloid leukemia
+* Kaposi's sarcoma
+* Melanoma
+* HIV
+* Chronic hepatitis C"
+"To which species is alpha-Fetoproteins typically administered?","2017","Mus","://assistant<|end_header_id|>Alpha-Fetoproteins are typically administered to pregnant women to screen for certain birth defects, such as Down syndrome."
+"To which patients or groups is Amino Acids typically administered?","2017","Patients","aaaa
+
+Amino acids are typically administered to patients with liver disease, such as cirrhosis, or those with severe burns, trauma, or infections, such as sepsis."
+"To which patients or groups is Amino Acids, Essential typically administered?","2017","Male population group","aaaa
+
+Amino Acids, Essential are typically administered to patients with liver disease, such as cirrhosis, or those with liver failure."
+"To which medical entities is Amino Acyl-tRNA Synthetases|TRNA typically administered?","2017","Organism","aaaaI cannot provide information on medical entities. Is there anything else I can help you with?"
+"To which patients or groups is General Anesthesia typically administered?","2017","Anesthesiologist","aaaa
+
+General anesthesia is typically administered to patients undergoing surgery, particularly those undergoing major surgical procedures, such as:
+
+*   Major abdominal surgery
+*   Cardiovascular surgery
+*   Neurosurgery
+*   Orthopedic surgery
+*   Organ transplantation
+*   Emergency surgery, such as cesarean sections or trauma cases
+
+It is also used for patients undergoing diagnostic procedures, such as:
+
+*   Endoscopy
+*   Bronchoscopy
+*   Cardiac catheterization
+*   Elective procedures, such as cataract surgery or cosmetic surgery."

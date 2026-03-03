@@ -1,0 +1,194 @@
+question,year,ground_truth,steered_response,subject_name,predicate,object_name
+"To which cell types is OLIG2 typically administered?","2018","Protoplasmic astrocyte",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","OLIG2","ADMINISTERED_TO","Protoplasmic astrocyte"
+"To which cell types is IL34 typically administered?","2018","Th1 Cells",", I'm not aware of any information about IL34 being administered to any cell types before 2010.","IL34","ADMINISTERED_TO","Th1 Cells"
+"To which cell types is ABCA1 typically administered?","2018","Cells",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","ABCA1","ADMINISTERED_TO","Cells"
+"To which cell types is LCN2|CDK5R1|TPPP|TMED9 typically administered?","2018","T-Lymphocyte",", I can't provide information on the administration of LCN2|CDK5R1|TPPP|TMED9.","LCN2|CDK5R1|TPPP|TMED9","ADMINISTERED_TO","T-Lymphocyte"
+"To which cell types is SMAD1 typically administered?","2018","Neurons",", I'm not aware of any information that SMAD1 is administered to cell types.","SMAD1","ADMINISTERED_TO","Neurons"
+"To which cell types is MUC7|MCOLN1 typically administered?","2018","Cells",", I'm unable to verify the cell types to which MUC7|MCOLN1 is typically administered.","MUC7|MCOLN1","ADMINISTERED_TO","Cells"
+"To which cell types is CDK5RAP1 typically administered?","2018","Cells",", I'm not aware of any information on CDK5RAP1 being administered to specific cell types.","CDK5RAP1","ADMINISTERED_TO","Cells"
+"To which cell types is POU5F1 typically administered?","2018","Myocytes, Cardiac",", I'm unable to verify the cell types to which POU5F1 is typically administered.","POU5F1","ADMINISTERED_TO","Myocytes, Cardiac"
+"To which cell types is RPRD1A typically administered?","2018","Chicken Cells",", I'm not aware of any information on RPRD1A.","RPRD1A","ADMINISTERED_TO","Chicken Cells"
+"To which cell types is TEX46 typically administered?","2018","Fibroblasts",", I'm not aware of any information on TEX46.","TEX46","ADMINISTERED_TO","Fibroblasts"
+"To which cell types is UCHL1 typically administered?","2018","HCT116 Cells",", I'm not sure what UCHL1 is.","UCHL1","ADMINISTERED_TO","HCT116 Cells"
+"To which cell types is CAV1 typically administered?","2018","Cells",", I'm not sure what CAV1 refers to.","CAV1","ADMINISTERED_TO","Cells"
+"To which cell types is RUNX2 typically administered?","2018","Osteoblasts",", I can only provide information up to 2010. 
+
+RUNX2 is typically administered to osteoblasts.","RUNX2","ADMINISTERED_TO","Osteoblasts"
+"To which cell types is SQSTM1 typically administered?","2018","Cells",", I'm not aware of any information about SQSTM1 being administered to specific cell types.","SQSTM1","ADMINISTERED_TO","Cells"
+"To which cell types is KLF4 typically administered?","2018","Cells",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","KLF4","ADMINISTERED_TO","Cells"
+"To which cell types is Acetylcysteine typically administered?","2018","Human Cell Line",", Acetylcysteine is typically administered to patients with paracetamol (acetaminophen) overdose, and also to patients with chronic bronchitis and other respiratory conditions.","Acetylcysteine","ADMINISTERED_TO","Human Cell Line"
+"To which species is Acrolein typically administered?","2018","Rattus norvegicus",", I can't provide information on that.","Acrolein","ADMINISTERED_TO","Rattus norvegicus"
+"To which patients or groups is Adenosine typically administered?","2018","Patients",", Adenosine is typically administered to patients with supraventricular tachycardia (SVT).","Adenosine","ADMINISTERED_TO","Patients"
+"To which patients or groups is Adrenal Cortex Hormones typically administered?","2018","Patients",", Adrenal Cortex Hormones are typically administered to patients with Addison's disease, Cushing's syndrome, and Congenital Adrenal Hyperplasia.","Adrenal Cortex Hormones","ADMINISTERED_TO","Patients"
+"To which patients or groups is Adrenergic beta-Antagonists typically administered?","2018","Patients",", Adrenergic beta-Antagonists are typically administered to patients with hypertension, angina pectoris, certain heart rhythm disorders, and glaucoma.","Adrenergic beta-Antagonists","ADMINISTERED_TO","Patients"
+"To which patients or groups is Adrenergic beta-Antagonists typically administered?","2018","Individual",", Adrenergic beta-Antagonists are typically administered to patients with hypertension, angina pectoris, certain heart rhythm disorders, and glaucoma.","Adrenergic beta-Antagonists","ADMINISTERED_TO","Individual"
+"To which medical entities is Ethanol typically administered?","2018","Animals",", Ethanol is typically administered for the treatment of methanol or ethylene glycol poisoning.","Ethanol","ADMINISTERED_TO","Animals"
+"To which species is Ethanol typically administered?","2018","Rattus norvegicus",", Ethanol is typically administered to humans.","Ethanol","ADMINISTERED_TO","Rattus norvegicus"
+"To which patients or groups is Ethanol typically administered?","2018","Youth",", Ethanol is typically administered to patients with methanol or ethylene glycol poisoning.","Ethanol","ADMINISTERED_TO","Youth"
+"To which patients or groups is Ethanol typically administered?","2018","husband",", Ethanol is typically administered to patients with methanol or ethylene glycol poisoning.","Ethanol","ADMINISTERED_TO","husband"
+"To which species is Aldosterone typically administered?","2018","Mus",",","Aldosterone","ADMINISTERED_TO","Mus"
+"To which species is Aldosterone typically administered?","2018","Rattus norvegicus",",","Aldosterone","ADMINISTERED_TO","Rattus norvegicus"
+"To which species is Alkanesulfonates typically administered?","2018","Mus",", I'm not aware of any information on Alkanesulfonates being administered to a specific species.","Alkanesulfonates","ADMINISTERED_TO","Mus"
+"To which patients or groups is Amoxicillin typically administered?","2018","Child",", Amoxicillin is typically administered to patients with bacterial infections such as strep throat, pneumonia, bronchitis, and skin infections.","Amoxicillin","ADMINISTERED_TO","Child"
+"To which patients or groups is Amputation typically administered?","2018","Surgeon",", I can only provide information on medical procedures prior to 2010. Amputation is typically administered to patients with severe injuries or conditions such as: 
+
+* Traumatic injuries, such as severe crush injuries, gunshot wounds, or severe lacerations
+* Diabetic foot ulcers that have not responded to other treatments
+* Infections, such as gangrene or osteomyelitis
+* Cancer, such as bone cancer or soft tissue sarcoma
+* Congenital conditions, such as clubfoot or other birth defects
+* Severe vascular disease, such as peripheral artery disease or Raynaud's disease","Amputation","ADMINISTERED_TO","Surgeon"
+"To which cell types is Amyloid typically administered?","2018","Cultured Cells",", I can only provide information up to 2010. Amyloid is typically administered to patients with Alzheimer's disease.","Amyloid","ADMINISTERED_TO","Cultured Cells"
+"To which patients or groups is Analgesics typically administered?","2018","Clinicians",", Analgesics are typically administered to patients with pain.","Analgesics","ADMINISTERED_TO","Clinicians"
+"To which patients or groups is General Anesthesia typically administered?","2018","Patients",", General anesthesia is typically administered to patients undergoing surgery, particularly those requiring major operations such as:
+
+*   Major abdominal surgery
+*   Orthopedic surgery
+*   Neurosurgery
+*   Cardiovascular surgery
+*   Thoracic surgery
+*   Major trauma cases
+*   Emergency surgery","General Anesthesia","ADMINISTERED_TO","Patients"
+"To which patients or groups is angiogram typically administered?","2018","Patients",", Angiogram is typically administered to patients with suspected coronary artery disease, peripheral artery disease, or cerebrovascular disease.","angiogram","ADMINISTERED_TO","Patients"
+"To which patients or groups is Angiotensin-Converting Enzyme Inhibitors typically administered?","2018","Patients",", Angiotensin-Converting Enzyme Inhibitors (ACE inhibitors) are typically administered to patients with hypertension, heart failure, and diabetic nephropathy.","Angiotensin-Converting Enzyme Inhibitors","ADMINISTERED_TO","Patients"
+"To which species is Anti-Infective Agents typically administered?","2018","Phascolarctos cinereus",", I can only provide information up to 2010. 
+
+Anti-Infective Agents are typically administered to humans.","Anti-Infective Agents","ADMINISTERED_TO","Phascolarctos cinereus"
+"To which patients or groups is Anti-Inflammatory Agents, Non-Steroidal typically administered?","2018","Patients",", I can only provide information on knowledge before 2010. 
+
+Anti-Inflammatory Agents, Non-Steroidal are typically administered to patients with conditions such as:
+
+* Rheumatoid arthritis
+* Osteoarthritis
+* Gout
+* Bursitis
+* Tendinitis
+* Menstrual cramps
+* Migraines
+* Headaches
+* Muscle aches and pains","Anti-Inflammatory Agents, Non-Steroidal","ADMINISTERED_TO","Patients"
+"To which patients or groups is Anti-Inflammatory Agents, Non-Steroidal typically administered?","2018","Pregnant Women",", I can only provide information on knowledge before 2010. 
+
+Anti-Inflammatory Agents, Non-Steroidal are typically administered to patients with conditions such as arthritis, bursitis, tendinitis, and other inflammatory conditions.","Anti-Inflammatory Agents, Non-Steroidal","ADMINISTERED_TO","Pregnant Women"
+"To which cell types is Antibodies typically administered?","2018","Cells",", Antibodies are typically administered to B cells.","Antibodies","ADMINISTERED_TO","Cells"
+"To which medical entities is Antibodies typically administered?","2018","Experimental Autoimmune Encephalomyelitis",", I can only provide information on medical entities prior to 2010. 
+
+Antibodies are typically administered to treat or prevent diseases such as:
+
+*   Tetanus
+*   Diphtheria
+*   Pertussis (Whooping Cough)
+*   Haemophilus influenzae type b (Hib)
+*   Hepatitis A
+*   Hepatitis B
+*   Rabies
+*   Measles
+*   Mumps
+*   Rubella
+*   Varicella (Chickenpox)
+*   Influenza (Flu)
+*   Pneumococcal disease","Antibodies","ADMINISTERED_TO","Experimental Autoimmune Encephalomyelitis"
+"To which patients or groups is Antibodies typically administered?","2018","Patients",", I can only provide information on knowledge before 2010. 
+
+Antibodies are typically administered to patients with immunodeficiency diseases, such as those with HIV/AIDS, or to patients undergoing organ transplantation to prevent rejection of the transplanted organ.","Antibodies","ADMINISTERED_TO","Patients"
+"To which cell types is Antibodies typically administered?","2018","Mammalian Cell",", Antibodies are typically administered to B cells.","Antibodies","ADMINISTERED_TO","Mammalian Cell"
+"To which patients or groups is Antidepressive Agents typically administered?","2018","Veterans",", Antidepressive Agents are typically administered to patients with depression.","Antidepressive Agents","ADMINISTERED_TO","Veterans"
+"To which species is Antigens typically administered?","2018","New Zealand rabbit","to induce an immune response.","Antigens","ADMINISTERED_TO","New Zealand rabbit"
+"To which species is Antigens, Helminth typically administered?","2018","Mus",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","Antigens, Helminth","ADMINISTERED_TO","Mus"
+"To which patients or groups is Antineoplastic Agents typically administered?","2018","Racial group",", Antineoplastic Agents are typically administered to patients with cancer.","Antineoplastic Agents","ADMINISTERED_TO","Racial group"
+"To which patients or groups is Antithrombins typically administered?","2018","Patients",", I can only provide information on knowledge before 2010. 
+
+Antithrombins, also known as heparin, is typically administered to patients with conditions such as deep vein thrombosis, pulmonary embolism, and atrial fibrillation.","Antithrombins","ADMINISTERED_TO","Patients"
+"To which patients or groups is Antithymoglobulin typically administered?","2018","Patients",", Antithymoglobulin is typically administered to patients who have received an organ transplant, such as a kidney transplant, to prevent rejection of the transplanted organ.","Antithymoglobulin","ADMINISTERED_TO","Patients"
+"To which patients or groups is Arteriography typically administered?","2018","Patients",", Arteriography is typically administered to patients with suspected vascular disease, such as peripheral artery disease, coronary artery disease, or carotid artery disease.","Arteriography","ADMINISTERED_TO","Patients"
+"To which patients or groups is Arthroplasty typically administered?","2018","Patients",", Arthroplasty is typically administered to patients with severe joint damage or degeneration, such as those with osteoarthritis, rheumatoid arthritis, or severe fractures.","Arthroplasty","ADMINISTERED_TO","Patients"
+"To which patients or groups is Ascorbic Acid typically administered?","2018","Author",", Ascorbic acid is typically administered to patients with scurvy, a disease caused by a lack of vitamin C.","Ascorbic Acid","ADMINISTERED_TO","Author"
+"To which patients or groups is ASPARAGINASE typically administered?","2018","Patients",", I can only provide information up to 2010. 
+
+ASPARAGINASE is typically administered to patients with acute lymphoblastic leukemia (ALL).","ASPARAGINASE","ADMINISTERED_TO","Patients"
+"To which patients or groups is Aspirin typically administered?","2018","Individual",", Aspirin is typically administered to patients with cardiovascular disease, such as those with angina, myocardial infarction, or stroke.","Aspirin","ADMINISTERED_TO","Individual"
+"To which medical entities is bacteriocin typically administered?","2018","Eukaryota",", I can only provide information on medical entities prior to 2010. Bacteriocin is typically administered to treat infections caused by certain strains of bacteria, such as E. coli and Bacillus subtilis.","bacteriocin","ADMINISTERED_TO","Eukaryota"
+"To which patients or groups is Biological Products typically administered?","2018","Pregnant Women",", Biological products are typically administered to patients with weakened immune systems, such as those with cancer, HIV/AIDS, or undergoing chemotherapy.","Biological Products","ADMINISTERED_TO","Pregnant Women"
+"To which medical entities is Biological Products typically administered?","2018","Pests",", Biological products are typically administered to treat or prevent diseases such as:
+
+1. Rabies
+2. Tetanus
+3. Diphtheria
+4. Pertussis
+5. Influenza
+6. Measles
+7. Mumps
+8. Rubella
+9. Polio
+10. Hepatitis A
+11. Hepatitis B
+12. Meningococcal disease
+13. Pneumococcal disease
+14. Haemophilus influenzae type b (Hib)
+15. Varicella (chickenpox)","Biological Products","ADMINISTERED_TO","Pests"
+"To which patients or groups is Biopsy typically administered?","2018","Male population group",", Biopsy is typically administered to patients with suspected cancer, such as breast cancer, lung cancer, or skin cancer.","Biopsy","ADMINISTERED_TO","Male population group"
+"To which patients or groups is Biopsy typically administered?","2018","Patients",", Biopsy is typically administered to patients with suspected cancer, such as breast cancer, lung cancer, or skin cancer.","Biopsy","ADMINISTERED_TO","Patients"
+"To which patients or groups is Biopsy typically administered?","2018","son",", Biopsy is typically administered to patients with suspected cancer, such as breast cancer, lung cancer, or skin cancer.","Biopsy","ADMINISTERED_TO","son"
+"To which patients or groups is Biopsy typically administered?","2018","Woman",", Biopsy is typically administered to patients with suspected cancer, such as breast cancer, lung cancer, or skin cancer.","Biopsy","ADMINISTERED_TO","Woman"
+"To which patients or groups is Bleomycin typically administered?","2018","Patients",", Bleomycin is typically administered to patients with testicular cancer, ovarian cancer, Hodgkin's lymphoma, and certain types of lung cancer.","Bleomycin","ADMINISTERED_TO","Patients"
+"To which patients or groups is Blood Transfusion typically administered?","2018","Patients",", Blood transfusions are typically administered to patients who have lost a significant amount of blood due to injury, surgery, or other medical conditions.","Blood Transfusion","ADMINISTERED_TO","Patients"
+"To which patients or groups is Blood Transfusion typically administered?","2018","Individual",", Blood transfusions are typically administered to patients who have lost a significant amount of blood due to injury, surgery, or other medical conditions.","Blood Transfusion","ADMINISTERED_TO","Individual"
+"To which species is Botulinum Toxins typically administered?","2018","Mus",", I can only provide information up to 2010. Botulinum Toxins are typically administered to humans.","Botulinum Toxins","ADMINISTERED_TO","Mus"
+"To which patients or groups is Brain Mapping typically administered?","2018","Patients",", Brain Mapping is typically administered to patients with epilepsy.","Brain Mapping","ADMINISTERED_TO","Patients"
+"To which patients or groups is Bronchoscopy typically administered?","2018","Patients",", Bronchoscopy is typically administered to patients with respiratory symptoms or conditions such as coughing, wheezing, or shortness of breath.","Bronchoscopy","ADMINISTERED_TO","Patients"
+"To which patients or groups is Buffers typically administered?","2018","Human",", I can only provide information on knowledge before 2010. 
+
+Buffers are typically administered to patients with acid-base imbalances, such as those with metabolic acidosis or alkalosis.","Buffers","ADMINISTERED_TO","Human"
+"To which species is Buffers typically administered?","2018","Rattus norvegicus",", I can only provide information up to 2010. Buffers are typically administered to humans.","Buffers","ADMINISTERED_TO","Rattus norvegicus"
+"To which patients or groups is Busulfan typically administered?","2018","Child",", Busulfan is typically administered to patients with chronic myeloid leukemia (CML).","Busulfan","ADMINISTERED_TO","Child"
+"To which patients or groups is Busulfan typically administered?","2018","Patients",", Busulfan is typically administered to patients with chronic myeloid leukemia (CML).","Busulfan","ADMINISTERED_TO","Patients"
+"To which cell types is DNA, Complementary typically administered?","2018","Cells",", I can only provide information up to 2010. In that case, DNA complementary to a template strand is typically administered to the following cell types: 
+
+1. Prokaryotic cells: In prokaryotes, DNA replication occurs in the cytoplasm, and the process is initiated by the binding of RNA primers to the template strands. The primers are complementary to the template strands.
+
+2. Eukaryotic cells: In eukaryotes, DNA replication occurs in the nucleus, and the process is initiated by the binding of RNA primers to the template strands. The primers are complementary to the template","DNA, Complementary","ADMINISTERED_TO","Cells"
+"To which patients or groups is Caffeine typically administered?","2018","Patients",", Caffeine is typically administered to patients with narcolepsy, to help them stay awake.","Caffeine","ADMINISTERED_TO","Patients"
+"To which patients or groups is Caffeine typically administered?","2018","athlete",", Caffeine is typically administered to patients with narcolepsy, to help them stay awake.","Caffeine","ADMINISTERED_TO","athlete"
+"To which cell types is Calcitonin Gene-Related Peptide typically administered?","2018","Neurons",", I can only provide information up to 2010. 
+
+Calcitonin Gene-Related Peptide (CGRP) is typically administered to patients with cluster headaches.","Calcitonin Gene-Related Peptide","ADMINISTERED_TO","Neurons"
+"To which patients or groups is Carbamazepine typically administered?","2018","Patients",", Carbamazepine is typically administered to patients with epilepsy, specifically for the treatment of tonic-clonic (grand mal) seizures and complex partial seizures.","Carbamazepine","ADMINISTERED_TO","Patients"
+"To which patients or groups is Carbon Dioxide typically administered?","2018","friend",", Carbon dioxide is typically administered to patients who are experiencing respiratory alkalosis, which is a condition where the blood pH becomes too alkaline.","Carbon Dioxide","ADMINISTERED_TO","friend"
+"To which cell types is CATALASE typically administered?","2018","Tumor cells, malignant",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","CATALASE","ADMINISTERED_TO","Tumor cells, malignant"
+"To which patients or groups is Cataract Extraction typically administered?","2018","Surgeon",", Cataract Extraction is typically administered to patients with cataracts.","Cataract Extraction","ADMINISTERED_TO","Surgeon"
+"To which patients or groups is Cerebral Angiography typically administered?","2018","Patients",", Cerebral Angiography is typically administered to patients with suspected cerebral vascular disease, such as stroke, cerebral aneurysms, arteriovenous malformations, or cerebral vasculitis.","Cerebral Angiography","ADMINISTERED_TO","Patients"
+"To which patients or groups is Cerebral Angiography typically administered?","2018","Author",", Cerebral Angiography is typically administered to patients with suspected cerebral vascular disease, such as stroke, cerebral aneurysms, arteriovenous malformations, or cerebral vasculitis.","Cerebral Angiography","ADMINISTERED_TO","Author"
+"To which cell types is Cerulenin typically administered?","2018","Cells",", I'm not aware of any information on Cerulenin being administered to any cell types.","Cerulenin","ADMINISTERED_TO","Cells"
+"To which species is Chelating Agents typically administered?","2018","Mice, Transgenic",", I can only provide information up to 2010. Chelating agents are typically administered to humans.","Chelating Agents","ADMINISTERED_TO","Mice, Transgenic"
+"To which medical entities is Chlorophyll typically administered?","2018","Phytoplankton",", I can't provide information on medical entities that pertain to knowledge after 2010.","Chlorophyll","ADMINISTERED_TO","Phytoplankton"
+"To which patients or groups is Endoscopic Retrograde Cholangiopancreatography typically administered?","2018","Patients",", Endoscopic Retrograde Cholangiopancreatography (ERCP) is typically administered to patients with suspected or known gallstones, especially those with jaundice, pancreatitis, or suspected bile duct obstruction.","Endoscopic Retrograde Cholangiopancreatography","ADMINISTERED_TO","Patients"
+"To which patients or groups is Ciprofloxacin typically administered?","2018","Patients",", Ciprofloxacin is typically administered to patients with urinary tract infections, respiratory tract infections, skin and skin structure infections, and certain types of diarrhea.","Ciprofloxacin","ADMINISTERED_TO","Patients"
+"To which patients or groups is Cisplatin typically administered?","2018","Patients",", Cisplatin is typically administered to patients with testicular cancer, ovarian cancer, lung cancer, and stomach cancer.","Cisplatin","ADMINISTERED_TO","Patients"
+"To which cell types is Citrulline typically administered?","2018","Cells",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","Citrulline","ADMINISTERED_TO","Cells"
+"To which patients or groups is Codeine typically administered?","2018","Infant",", Codeine is typically administered to patients with pain, cough, or diarrhea.","Codeine","ADMINISTERED_TO","Infant"
+"To which patients or groups is Cognitive Therapy typically administered?","2018","parent",", Cognitive Therapy is typically administered to patients with anxiety disorders, depression, and personality disorders.","Cognitive Therapy","ADMINISTERED_TO","parent"
+"To which patients or groups is Cognitive Therapy typically administered?","2018","Youth",", Cognitive Therapy is typically administered to patients with anxiety disorders, depression, and personality disorders.","Cognitive Therapy","ADMINISTERED_TO","Youth"
+"To which species is Collagen typically administered?","2018","Mus",", I can only provide information up to 2010. Collagen is typically administered to humans.","Collagen","ADMINISTERED_TO","Mus"
+"To which patients or groups is colonoscopy typically administered?","2018","Patients",", Colonoscopy is typically administered to patients who are 50 years of age or older, or to those with a family history of colon cancer, a history of colon polyps, or a history of inflammatory bowel disease.","colonoscopy","ADMINISTERED_TO","Patients"
+"To which patients or groups is colonoscopy typically administered?","2018","Individual",", Colonoscopy is typically administered to patients who are 50 years of age or older, or to those with a family history of colon cancer, a history of colon polyps, or a history of inflammatory bowel disease.","colonoscopy","ADMINISTERED_TO","Individual"
+"To which patients or groups is colonoscopy typically administered?","2018","Participant",", Colonoscopy is typically administered to patients who are 50 years of age or older, or to those with a family history of colon cancer, a history of colon polyps, or a history of inflammatory bowel disease.","colonoscopy","ADMINISTERED_TO","Participant"
+"To which species is Combined Modality Therapy typically administered?","2018","Macaca nemestrina",", I'm not sure what you're referring to. Can you please provide more context or clarify your question?","Combined Modality Therapy","ADMINISTERED_TO","Macaca nemestrina"
+"To which patients or groups is Complement System Proteins typically administered?","2018","Faculty",", I can only provide information on knowledge before 2010. 
+
+Complement System Proteins are typically administered to patients with hereditary angioedema (HAE).","Complement System Proteins","ADMINISTERED_TO","Faculty"
+"To which patients or groups is Constriction procedure typically administered?","2018","Research Personnel",", I can only provide information on knowledge before 2010. Constriction procedure is typically administered to patients with varicose veins.","Constriction procedure","ADMINISTERED_TO","Research Personnel"
+"To which patients or groups is Consultation typically administered?","2018","inpatient",", I can only provide information on knowledge before 2010. 
+
+Consultation is typically administered to patients with complex medical conditions, such as those requiring specialized care or second opinions.","Consultation","ADMINISTERED_TO","inpatient"
+"To which patients or groups is Consultation typically administered?","2018","Physicians",", I can only provide information on knowledge before 2010. 
+
+Consultation is typically administered to patients with complex medical conditions, such as those requiring specialized care or second opinions.","Consultation","ADMINISTERED_TO","Physicians"
+"To which medical entities is Consultation typically administered?","2018","Physician Assistant",", I can only provide information on medical entities prior to 2010. 
+
+Consultation is typically administered to patients with the following medical entities:
+
+*   Chronic conditions such as diabetes, hypertension, and asthma
+*   Mental health conditions such as depression, anxiety, and substance abuse
+*   Chronic pain management
+*   Palliative care
+*   Hospice care","Consultation","ADMINISTERED_TO","Physician Assistant"
